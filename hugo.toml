@@ -16,7 +16,7 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "Artists"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
@@ -71,9 +71,9 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
+    heading               = "Art Hub Studio LLC: Connecting Artists to Collectors"
+    tagline               = "CREATING A FAIR ART MARKETPLACE"
+    primary_button        = "See Our Artists"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
     secondary_button_url  = "contact"
