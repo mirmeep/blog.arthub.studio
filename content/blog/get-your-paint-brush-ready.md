@@ -4,6 +4,7 @@ date: 2022-06-21 02:51:44
 image: images/blog/get-your-paint-brush-ready.png
 feature_image: images/blog/blog-details-image.jpg
 author: Brooke Schutz
+category: "AHS Development"
 draft: false
 ---
 
