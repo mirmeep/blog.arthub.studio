@@ -105,7 +105,7 @@ summarylength = 25
       title   = "Contact Info"
       address = "PO Box 323<br>Cobleskill, NY 12043"
       phone   = "607-325-5500"
-      email   = "henrbj10@gmail.com"
+      email   = "To be contacted, submit query"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
