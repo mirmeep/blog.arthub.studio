@@ -110,24 +110,24 @@ summarylength = 25
       address = "PO Box 323<br>Cobleskill, NY 12043"
       phone   = "607-325-5500"
       email   = "To be contacted, submit query"
-      # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Sitemap"
-        [[params.footer.sitemap.link]]
-          name = "About Company"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Artists"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "Blog"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "Contact"
-          url  = "contact"
-        [[params.footer.sitemap.link]]
-          name = "Shop"
-          url  = ""
+    # Footer Sitemap
+    [params.footer.sitemap]
+      title   = "Sitemap"
+      [[params.footer.sitemap.link]]
+        name = "About Company"
+        url  = "about"
+      [[params.footer.sitemap.link]]
+        name = "Artists"
+        url  = "portfolio"
+      [[params.footer.sitemap.link]]
+        name = "Blog"
+        url  = "blog"
+      [[params.footer.sitemap.link]]
+        name = "Contact"
+        url  = "contact"
+      [[params.footer.sitemap.link]]
+        name = "Shop"
+        url  = ""
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
@@ -143,6 +143,12 @@ summarylength = 25
         [[params.footer.social.link]]
           name = "Facebook"
           url  = "#"
+      # Footer Other Information
+      [params.footer.info]
+        title = "Information"
+        [[params.footer.info.link]]
+          name = "Terms and Conditions"
+          url  = "terms"
       # Footer Service
       [params.footer.service]
         title       = "We help By:"
