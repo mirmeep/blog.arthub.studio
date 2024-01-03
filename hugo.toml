@@ -54,7 +54,7 @@ summarylength = 25
     placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
     placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
+    placeholder_about_the_project = "Other information we should know"
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
@@ -86,12 +86,12 @@ summarylength = 25
     read_more             = "read more"
 
   [params.portfolio]
-    enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    enable       = true
+    title        = "Highlighted Artists and Artwork"
+    subtitle     = ""
     view_project = "view project"
-    more_works = "MORE WORKS"
-    scroll_down = "scroll down"
+    more_works   = "MORE WORKS"
+    scroll_down  = "scroll down"
 
   [params.call_to_action]
     enable               = true
