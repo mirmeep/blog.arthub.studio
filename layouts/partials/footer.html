@@ -10,12 +10,12 @@
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <p class="site-footer-widget-description">
 	    {{ if .address }}
-              {{ .address | safeHTML }}
-	      <br>  
+              {{ .address | safeHTML }}  
         <br>
 	    {{ end }}
 	    {{ if .phone }}
               <a href="tel:{{ .phone }}">{{ .phone }}</a>
+              <br>
               <br>
 	    {{ end }}
 	    {{ if .email }}
