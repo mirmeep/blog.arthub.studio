@@ -1,7 +1,6 @@
 ---
 title: 'Terms and Conditions'
 date: 2024-01-03T10:53:18-08:00
-draft: true
 ---
 ### **Agreement between User and [Art Hub Studio LLC](https://arthub.studio)**
 
