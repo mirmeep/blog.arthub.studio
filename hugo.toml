@@ -24,9 +24,13 @@ summarylength = 25
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Contact"
     url     = "contact"
     weight  = 5
+  [[menu.nav]]
+    name    = "SHOP"
+    url     = ""
+    weight = 6
 
 # Site Params
 [params]
@@ -121,6 +125,9 @@ summarylength = 25
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
+        [[params.footer.sitemap.link]]
+          name = "Shop"
+          url  = ""
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
