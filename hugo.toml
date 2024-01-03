@@ -136,7 +136,7 @@ summarylength = 25
           url  = "#"
         [[params.footer.social.link]]
           name = "Kofi"
-          url  = "#"
+          url  = "https://ko-fi.com/arthubstudiollc"
         [[params.footer.social.link]]
           name = "LinkedIn"
           url  = "#"
