@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="site-footer-logo"><a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo_footer | absURL }}" alt="logo-footer"></a></div>
+        <h3 class="site-footer-header"><a href="{{ .Site.BaseURL }}">Art Hub Studio LLC</a></h3>
       </div>
       {{ with .Site.Params.footer.contactInfo }}
       <div class="col-lg-3 col-md-6">
@@ -16,10 +16,9 @@
 	    {{ if .phone }}
               <a href="tel:{{ .phone }}">{{ .phone }}</a>
               <br>
-              <br>
 	    {{ end }}
 	    {{ if .email }}
-              <a href="{{ .url | absURL }}contact">{{ .email }}</a>
+              <span style="text-decoration: underline;"><a href="{{ .url | absURL }}contact">{{ .email }}</a></span>
 	    {{ end }}
           </p>
         </div>
