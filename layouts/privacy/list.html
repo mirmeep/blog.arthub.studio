@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<section class="site-project-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-about-wrapper">
+          <h2>{{ .Title }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertise">
+  <div class="container">
+    <div class="row">
+        {{ .Content }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
