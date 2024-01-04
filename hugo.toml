@@ -46,7 +46,7 @@ summarylength = 25
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/USAg2Jl"
+  fabform  = "https://fabform.io/f/XYtDWFi"
 
   # Contact Form
   [params.contactForm]
