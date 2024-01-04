@@ -1,4 +1,4 @@
 ---
-title: "We build better <span>products</span> to help our clients build better <span>companies</span>"
+title: "We connect <span>artists</span> to <span>collectors</span>"
 date: 2019-12-23T16:48:28+06:00
 ---
