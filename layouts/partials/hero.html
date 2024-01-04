@@ -1,20 +1,16 @@
 {{ with .Site.Params.banner }}
   {{ if .enable }}
   {{ "<!-- Site Hero Start -->" | safeHTML }}
-  <section class="site-hero" style="background-image: url('{{ .background_image }}');">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-4 offset-sm-2 text-center">
-          <div class="site-hero-content">
-            <h6>{{ .tagline }}</h6>
-            <h1>
-              {{ .heading }}
-            </h1>
-          </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="site-hero">
+          <img class="site-hero-img" src="{{ .background_image }}">
         </div>
-      </div>
     </div>
-  </section>
+    </div>
+  </div>
+ 
   {{ "<!-- Site Hero End -->" | safeHTML }}
   {{ end }}
 {{ end }}
