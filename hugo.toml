@@ -29,7 +29,7 @@ summarylength = 25
     weight  = 5
   [[menu.nav]]
     name    = "SHOP"
-    url     = ""
+    url     = "https://shop.arthub.studio"
     weight = 6
 
 # Site Params
