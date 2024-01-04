@@ -1,16 +1,9 @@
 {{ with .Site.Params.banner }}
   {{ if .enable }}
   {{ "<!-- Site Hero Start -->" | safeHTML }}
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
         <div class="site-hero">
           <img class="site-hero-img" src="{{ .background_image }}">
         </div>
-    </div>
-    </div>
-  </div>
- 
   {{ "<!-- Site Hero End -->" | safeHTML }}
   {{ end }}
 {{ end }}
