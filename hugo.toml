@@ -150,7 +150,7 @@ summarylength = 25
           name = "Terms and Conditions"
           url  = "terms"
         [[params.footer.info.link]]
-          name = "Privary Policy"
+          name = "Privacy Policy"
           url  = "privacy"
         [[params.footer.info.link]]
           name = "Shipping Policy"
