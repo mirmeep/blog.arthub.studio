@@ -49,6 +49,7 @@ Support us by visiting our online store here: https://shop.arthub.studio.\
 Follow our social media.\
 [Instagram](https://www.instagram.com/art_hub_studio_llc/)\
 [Facebook](https://www.facebook.com/ArtHubStudioLLC/)\
+[LinkedIn](https://www.linkedin.com/company/art-hub-studio-llc/)\
 \
 We are currently seeking funding opportunities to help launch this start up company. If you would like to help Art Hub Studio LLC grow you may donate here: [Ko-fi](https://ko-fi.com/arthubstudiollc).
 
