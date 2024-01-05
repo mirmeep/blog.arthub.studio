@@ -89,8 +89,8 @@ summarylength = 25
     enable       = true
     title        = "Highlighted Artists and Artwork"
     subtitle     = ""
-    view_project = "view project"
-    more_works   = "MORE WORKS"
+    view_project = "view artist"
+    more_works   = "MORE ARTISTS"
     scroll_down  = "scroll down"
 
   [params.call_to_action]
