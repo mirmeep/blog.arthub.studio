@@ -31,14 +31,24 @@ Here are recommended commission requests based on Market research, time and mate
 #### What ensures a quality print?
 
 ***Care in the craft and attention to detail!***\
-Massed produced garbage is too popular these days. What happened to the good old times where there is care put into the art you're producing?\
+\
+Massed produced garbage is too popular these days. Here, at Art Hub Studio, we don't bang out quantity over quality.\
 \
 Art Hub Studio LLC has a small local workshop where quality material is used to handcraft beautifully framed and stretched canvases.\
 \
-All products go through a standardized quality control check to ensure the color profile and materials are visually appealing for the collector - and not thoughtlessly thrown into a box and shipped to you.\
+All products go through a standardized quality control check to ensure the color profile and materials are visually appealing for the collector.\
 \
-Heck, it might not be the most profitable as thoughtless mass production, but it's an honest days work here at Art Hub Studio LLC and **you can guarantee to get a product that was cared for, start to finish.**
+It's an honest days work here at Art Hub Studio LLC and **you can guarantee to get a product that was cared for, start to finish.**
 
 ***Are you an artist looking to sell?*** [Contact us](https://arthub.studio/contact) and get started with Art Hub Studio LLC today.
 
-<!--***Are you an art buyer looking for art?*** View [our shop](https://bb6626-3.myshopify.com/password) and start browsing art today.-->
+#### How do you support this growing business?
+
+Support us by visiting our online store here: https://shop.arthub.studio.\
+\
+Follow our social media.\
+[Instagram](https://www.instagram.com/art_hub_studio_llc/)\
+[Facebook](https://www.facebook.com/ArtHubStudioLLC/)\
+\
+We are currently seeking funding opportunities to help launch this start up company. If you would like to help Art Hub Studio LLC grow you may donate here: [Ko-fi](https://ko-fi.com/arthubstudiollc).
+
