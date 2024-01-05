@@ -152,9 +152,9 @@ summarylength = 25
         [[params.footer.info.link]]
           name = "Privacy Policy"
           url  = "privacy"
-        [[params.footer.info.link]]
-          name = "Shipping Policy"
-          url  = "shipping"
+        #[[params.footer.info.link]]
+         # name = "Shipping Policy"
+        #  url  = "shipping"
         [[params.footer.info.link]]
           name = "Refund/Cancellation Policy"
           url  = "refund"
