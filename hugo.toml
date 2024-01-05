@@ -133,16 +133,16 @@ summarylength = 25
         title   = "Social Media"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
+          url  = "https://www.instagram.com/art_hub_studio_llc/"
         [[params.footer.social.link]]
           name = "Kofi"
           url  = "https://ko-fi.com/arthubstudiollc"
         [[params.footer.social.link]]
           name = "LinkedIn"
-          url  = "#"
+          url  = "https://www.linkedin.com/company/art-hub-studio-llc/"
         [[params.footer.social.link]]
           name = "Facebook"
-          url  = "#"
+          url  = "https://www.facebook.com/ArtHubStudioLLC/"
       # Footer Other Information
       [params.footer.info]
         title = "Information"
