@@ -10,4 +10,4 @@ draft: false
 
 ### What is Art Hub Studio LLC? A new way to explore art!
 
-Art Hub Studio LLC is a developing Vlog website. It will be a space where Artists, Museums, and Galleries will be interviewed and explored. Art Hub Studio plans to create content where collectors can learn about new or seasoned artists in Central NY. Stay Tuned for upcoming content. Feel free to subscribe to our newsletter. We will update you on new and upcoming videos!
+Art Hub Studio LLC is a developing blog and e-commerce website. It will be a space where Artists, Museums, and Galleries will be interviewed and explored. Art Hub Studio plans to create content where collectors can learn about new or seasoned artists. Stay Tuned for upcoming content. Feel free to contact us on our [contact](https://arthub.studio/contact) page. We will update you on new and upcoming posts!
