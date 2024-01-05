@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 date: 2018-07-12T18:19:33+06:00
-heading : "Providing Quality Prints & Fair Revenue"
+heading : "Providing<br>Quality Prints<br>& Fair Revenue"
 description_header : "Our mission is to:" 
 description_body: "Maintain an art community that provides ease and support to artists so they may gain fair revenue, while standardizing the quality of Artist's prints to produce the same quality product for collectors with every purchase."
 # expertise_title: "Expertise"

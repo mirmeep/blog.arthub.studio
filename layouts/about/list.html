@@ -6,8 +6,8 @@
       <div class="col-12">
         <div class="site-about-wrapper">
           <div class="site-about-company">
-            <h1>
-              {{ .Params.heading }}
+            <h1 style="text-align:center;">
+              {{ .Params.heading | safeHTML }}
             </h1>
           </div>
           <div class="site-about-description">
