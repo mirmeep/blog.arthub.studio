@@ -2,7 +2,7 @@
 title: "ARTIST: Tony Murchison, The Artificer"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/tony-art.jpg"
+image: "images/projects/tony-post-long.png"
 category: ["Artist"]
 project_images: ["images/projects/tony-art.jpg"]
 ---
