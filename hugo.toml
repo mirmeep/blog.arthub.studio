@@ -2,7 +2,7 @@ baseURL       = "https://arthub.studio/"
 languageCode  = "en-us"
 title         = "Art Hub Studio LLC"
 theme         = "roxo-hugo"
-summarylength = 25
+summarylength = 10
 
 # Site Menus
 [menu]
