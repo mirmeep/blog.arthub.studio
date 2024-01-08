@@ -183,11 +183,26 @@
       @include tablet{
         padding: 100px 0;
       }
+      @include mobile {
+        padding: 200px 0;
+      }
+      @include mobile-xs {
+        padding: 150px 0;
+      }
     }
     h1{
       font-size: 40px;
       font-weight: 500;
       margin-bottom: 40px;
+      @include tablet {
+        font-size: 2em;
+      }
+      @include mobile {
+        font-size: 1.5em;
+      }
+      @include mobile-xs {
+        font-size: 1em;
+      }
     }
     &-image{
       display: flex;
