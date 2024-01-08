@@ -6,7 +6,7 @@
       <div class="col-12">
         <div class="site-about-wrapper">
           <div class="site-about-company">
-            <h1 style="text-align:center;">
+            <h1 class="text-center">
               {{ .Params.heading | safeHTML }}
             </h1>
           </div>
@@ -23,7 +23,9 @@
 <section class="site-expertise">
   <div class="container">
     <div class="row">
+      <div class="col-12">
         {{ .Content }}
+      </div>
     </div>
   </div>
 </section>
