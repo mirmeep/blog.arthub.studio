@@ -148,16 +148,16 @@ summarylength = 25
         title = "Information"
         [[params.footer.info.link]]
           name = "Terms and Conditions"
-          url  = "terms"
+          url  = "policies/terms"
         [[params.footer.info.link]]
           name = "Privacy Policy"
-          url  = "privacy"
+          url  = "policies/privacy"
         #[[params.footer.info.link]]
          # name = "Shipping Policy"
         #  url  = "shipping"
         [[params.footer.info.link]]
           name = "Refund/Cancellation Policy"
-          url  = "refund"
+          url  = "policies/refund"
       # Footer Service
       [params.footer.service]
         title       = "We help By:"
