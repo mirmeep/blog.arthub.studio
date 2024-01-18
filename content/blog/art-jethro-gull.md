@@ -4,9 +4,10 @@ date: 2024-01-04T12:22:11-08:00
 image: images/blog/jethro-gull-long.png
 feature_image: images/blog/jethro-gull.jpg
 category: "Artwork"
-author: "Tony Murchison"
+author: "Brooke Schutz"
 ---
-
+*Artwork by Tony Murchison*\
+\
 ***He's just a fella. Jamming on a flute. I hear he has a nice Christmas album. Just don't let him near a locomotive or he'll take your breath away.***\
 \
 This piece is a creative pun on a popular musician from the late 60s early 70s. Can you take a guess who?\
