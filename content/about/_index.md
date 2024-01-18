@@ -20,31 +20,30 @@ As of now, we are only selling stretched canvas and wall posters of artwork. As 
 
 #### How do artist commissions work?
 
-Artists' decide their own flat rate commission per unit.\
+Commissions are a flat rate per unit. Art Hub Studio LLC will discuss recommended commissions with the artist based on market research, time, and materials put into the art.\
 \
-Art Hub Studio LLC will discuss a recommended commission with the artist based on market research, time, and materials put into the art, but ultimately the artist knows how much they spent making a piece and what they need to earn on their unique piece.\
+Here are the recommended commissions on the following chart.\
 \
-** Just be aware that we're not schmucks and won't sell your canvas prints for a $3,000 commission per unit. As long as the artist is reasonable with their request, we'll be reasonable back.\
+[Insert recommended commissions table]\
 \
-Here are recommended commission requests based on Market research, time and material spent: [Recommended Commissions Chart].
+***Are you an artist looking to sell?***\
+[Contact us](https://arthub.studio/contact) and get started with Art Hub Studio LLC today.
 
 #### What ensures a quality print?
 
 ***Care in the craft and attention to detail!***\
 \
-Massed produced garbage is too popular these days. Here, at Art Hub Studio, we don't bang out quantity over quality.\
+Here, at Art Hub Studio, we don't bang out quality for quantity.\
 \
-Art Hub Studio LLC has a small local workshop where quality material is used to handcraft beautifully framed and stretched canvases.\
+Art Hub Studio LLC has a small local workshop in Upstate New York where quality material is used to handcraft beautifully framed and stretched canvases.\
 \
 All products go through a standardized quality control check to ensure the color profile and materials are visually appealing for the collector.\
 \
-It's an honest days work here at Art Hub Studio LLC and **you can guarantee to get a product that was cared for, start to finish.**
-
-***Are you an artist looking to sell?*** [Contact us](https://arthub.studio/contact) and get started with Art Hub Studio LLC today.
+**You can guarantee to get a product that was cared for, start to finish.**
 
 #### How do you support this growing business?
 
-Support us by visiting our online store here: https://shop.arthub.studio.\
+Support us by visiting our online store here: [Art Hub Studio Store](https://shop.arthub.studio).\
 \
 Follow our social media.\
 [Instagram](https://www.instagram.com/art_hub_studio_llc/)\
@@ -52,4 +51,3 @@ Follow our social media.\
 [LinkedIn](https://www.linkedin.com/company/art-hub-studio-llc/)\
 \
 We are currently seeking funding opportunities to help launch this start up company. If you would like to help Art Hub Studio LLC grow you may donate here: [Ko-fi](https://ko-fi.com/arthubstudiollc).
-
