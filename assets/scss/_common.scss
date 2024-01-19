@@ -2,6 +2,11 @@
 //   scroll-behavior: smooth;
 // }
 
+.disableSave {
+  -webkit-user-select:none;
+  -webkit-touch-callout:none;
+}
+
 body {
   background: $body-color;
 }
