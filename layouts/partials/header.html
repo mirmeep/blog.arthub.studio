@@ -11,8 +11,10 @@
     // Prevent image dragging for DESKTOP
     $("img").attr("draggable", "false");
 
+    // Prevent image saving on iOS
     $("img").addClass("disable-save");
 
+    // Prevent image saving on Android
     $("img").attr("oncontextmenu", "return false;");
   });
 </script>
