@@ -10,7 +10,7 @@
           </h1>
           <div class="site-hero" style="padding-top:0; padding-bottom: 1em;">
             {{ range .Params.project_images }}
-            <img draggable="false" class="site-hero-img" src="{{ . | absURL }}" alt="project image">
+            <img draggable="false" class="site-hero-img disable-save" src="{{ . | absURL }}" alt="project image">
             {{ end }}
           </div>
           <div class="site-project-single-description">
