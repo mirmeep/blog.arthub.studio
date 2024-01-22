@@ -54,7 +54,7 @@ summarylength = 10
     placeholder_last_name         = "Last Name"
     placeholder_email             = "Email"
     placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "Other information we should know"
+    placeholder_about_the_project = "Want to become a seller or need customer support? Leave a detailed message here."
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
