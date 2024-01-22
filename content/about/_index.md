@@ -33,7 +33,7 @@ Here are the recommended commissions on the following chart.\
 
 ***Care in the craft and attention to detail!***\
 \
-Here, at Art Hub Studio, we don't bang out quality for quantity.\
+Here, at Art Hub Studio, we focus on quality over quantity.\
 \
 Art Hub Studio LLC has a small local workshop in Upstate New York where quality material is used to handcraft beautifully framed and stretched canvases.\
 \
