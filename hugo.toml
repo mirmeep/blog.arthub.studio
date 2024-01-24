@@ -164,3 +164,6 @@ summarylength = 10
         description = "Connecting Artists to Collectors<br>Allowing artists to sell art for free<br>Producing high quality prints"
       [params.footer.back_to_top]
         description = "I want to <br> visit again"
+
+[security]
+  enableInlineShortcodes = true
