@@ -8,6 +8,7 @@ author: 'Miranda Peak'
 artist: "Tony Murchison"
 website: "https://ko-fi.com/tonymurchison"
 titleWebsite: "Ko-fi"
+draft: true
 ---
 Tony Murchison’s *Reynard, Hunter of Hunters* takes a humorous twist by subverting expectations of the power dynamic between predator versus prey.\
 \
