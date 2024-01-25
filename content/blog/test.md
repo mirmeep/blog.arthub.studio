@@ -10,4 +10,6 @@ website: "[Artist website]"
 draft: true
 ---
 
-
+{{< bootstrap class="col-sm-4">}}
+Testing Bootstrap module (inside markdown)
+{{< /bootstrap>}}

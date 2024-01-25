@@ -167,3 +167,6 @@ summarylength = 10
 
 [security]
   enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
