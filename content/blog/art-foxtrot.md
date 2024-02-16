@@ -2,7 +2,7 @@
 title: 'Foxtrot'
 date: 2024-01-22T15:04:03-08:00
 image: images/blog/Artwork/foxtrot100.jpg
-feature_image: images/blog/Artwork/foxtrot100.jpg
+feature_image: images/blog/Artwork/foxtrot200.jpg
 category: 'Artwork'
 author: 'Miranda Peak'
 artist: "Tony Murchison"
