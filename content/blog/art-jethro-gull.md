@@ -1,8 +1,8 @@
 ---
 title: 'Jethro Gull'
 date: 2024-01-04T12:22:11-08:00
-image: images/blog/jethro-gull-long.png
-feature_image: images/blog/jethro-gull.jpg
+image: images/blog/Artwork/jethrogull200.jpg
+feature_image: images/blog/Artwork/jethrogull200.jpg
 category: "Artwork"
 author: "Brooke Schutz"
 artist: "Tony Murchison"
