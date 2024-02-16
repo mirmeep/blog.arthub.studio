@@ -1,8 +1,8 @@
 ---
 title: 'Art Hub Studio LLC, Connecting Artists to Collectors'
 date: 2022-03-07 19:28:13
-image: images/blog/background-long.png
-feature_image: images/blog/be-creative.png
+image: images/blog/marketing/background-long.png
+feature_image: images/blog/marketing/background.jpg
 author: Brooke Schutz
 category: "AHS Development"
 draft: false
