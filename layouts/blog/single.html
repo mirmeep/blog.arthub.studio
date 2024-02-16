@@ -8,12 +8,16 @@
           <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span></p>
           <h2 class="blog-title">{{ .Title }}</h2>
           <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
-          <p style="font-style: italic;">Artwork by {{ .Params.artist }}</p>
+          {{ if eq .Params.category "Artwork" }}<p style="font-style: italic;">Artwork by {{ .Params.artist }}</p>{{ end }}
           {{ .Content }}
-          <hr>
-          <p style="font-style: italic;">This blog post is an art review and interpretation by {{ .Params.author }}. 
-            The Artist {{ .Params.artist }} has their own description and meaning of the 
-            artwork on their website. <a href="{{ .Params.website }}" target="_blank">{{ .Params.titleWebsite }}</a></p>
+          {{ if eq .Params.category "Artwork" }}
+            <hr>
+            <p style="font-style: italic;">
+              This blog post is an art review and interpretation by {{ .Params.author }}. 
+              The Artist {{ .Params.artist }} has their own description and meaning of the 
+              artwork on their website. <a href="{{ .Params.website }}" target="_blank">{{ .Params.titleWebsite }}</a>
+            </p>
+          {{ end }}
         </article>
       </div>
     </div>
