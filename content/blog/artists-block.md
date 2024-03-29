@@ -8,7 +8,7 @@ author: "Miranda Peak"
 artist: "[Artist name]"
 website: "[Artist website]"
 titleWebsite: "[Website name]"
-draft: true
+draft: false
 ---
 
 Are you someone who’s looking to create, but is stuck? In the middle of a piece or itching to start one, but don’t know where to begin?
@@ -19,7 +19,7 @@ Here, at Art Hub Studio, we care about the success of caring, passionate artists
 
 #### What is Artist’s block?
 
-Artist’s block is when your motivation and creative juices have been fully wrung. Last week, you may have had amazing, groundbreaking ideas, but now you are left scratching your head, not sure where those ideas went. 
+Artist’s block is when your motivation and creative juices have been fully wrung. Last week, you may have had amazing, groundbreaking ideas, but now you are left scratching your head, not sure where those ideas went.
 
 This is a normal barrier that occurs in the majority of artists.
 
