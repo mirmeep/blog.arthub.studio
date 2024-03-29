@@ -17,14 +17,14 @@ This is the first blog in the series Why Art? We will focus mainly on the import
 
 So, why art?
 
-Art isn’t just for looking at. It’s meant to tell stories, to drive philosophies, to conceptualize  political ideologies. It is for when words cannot be used enough to describe ideas. It is how we connect with others, how we cope. 
+Art isn’t just for looking at. It’s meant to tell stories, to drive philosophies, to conceptualize  political ideologies. It is for when words cannot be used enough to describe ideas. It is how we connect with others, how we cope.
 
-Some find it nice in passing. For others, art is a necessity. 
+Some find it nice in passing. For others, art is a necessity.
 
 One cannot just look at art, but rather one must understand it, to observe it, to feel it, to live in it.
 
-No matter your background, we are all able to bask in the colors, textures, and even beauty or ugliness of compositions. 
+No matter your background, we are all able to bask in the colors, textures, and even beauty or ugliness of compositions.
 
 This is what is so exciting about art.
 
-Hopefully, by the end of this series, you will be able to apply the concepts discussed here as a way to better appreciate Art Hub Studios artists. 
+Hopefully, by the end of this series, you will be able to apply the concepts discussed here as a way to better appreciate Art Hub Studios artists.
