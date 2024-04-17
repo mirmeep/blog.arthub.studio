@@ -35,7 +35,7 @@ Commissions are a flat rate per unit. Art Hub Studio LLC will discuss recommende
 \
 Here are the recommended commissions on the following chart.\
 \
-[Insert recommended commissions table]
+[Insert recommended commissions table DO IT NOW BROOKE :D]
 
 {{% /bootstrap-col %}}
 {{% /bootstrap-row %}}
