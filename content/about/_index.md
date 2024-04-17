@@ -4,8 +4,6 @@ date: 2018-07-12T18:19:33+06:00
 heading : "Providing<br>Quality Prints<br>& Fair Revenue"
 description_header : "Our mission is to:" 
 description_body: "Maintain an art community that provides ease and support to artists so they may gain fair revenue, while standardizing the quality of Artist's prints to produce the same quality product for collectors with every purchase."
-# expertise_title: "Expertise"
-# expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
 ---
 {{% bootstrap-row %}}
 {{% bootstrap-col class="col-sm-5 offset-sm-1 col-md-4 offset-md-2 py-3 py-md-5" %}}
@@ -35,7 +33,7 @@ Commissions are a flat rate per unit. Art Hub Studio LLC will discuss recommende
 \
 Here are the recommended commissions on the following chart.\
 \
-[Insert recommended commissions table DO IT NOW BROOKE :D]
+[Insert recommended commissions table]
 
 {{% /bootstrap-col %}}
 {{% /bootstrap-row %}}
