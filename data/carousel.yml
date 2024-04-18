@@ -1,3 +1,5 @@
 images:
   - image: /images/backgrounds/tony-new-art.jpg
-    content_html: "1"
+    content_html: ""
+  - image: /images/blog/Artwork/jethro-gull.jpg
+    content_html: ""
