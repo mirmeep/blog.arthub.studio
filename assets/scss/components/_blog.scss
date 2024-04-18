@@ -39,9 +39,6 @@
       }
       &-content{
         @extend .site-project-item-content;
-        @include mobile{
-          padding: 15px 25px 40px;
-        }
         span{
           font-size: 14px;
         }

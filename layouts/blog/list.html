@@ -20,7 +20,7 @@
       <div class="col-lg-6">
         <article class="site-blog-post">
           {{ with .Params.image }}
-          <div class="site-blog-post-thumb">
+          <div class="site-blog-post-thumb" style="min-height:50em;">
             <img src="{{ . | absURL }}" alt="post-thumb">
           </div>
           {{ end }}
