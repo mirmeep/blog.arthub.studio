@@ -1,42 +1,47 @@
 ---
-title: "Artists Block"
+title: "Artist's Block"
 date: 2024-03-29T11:14:32-07:00
 image: "images/blog/ForArtists/block100.jpg"
 feature_image: "images/blog/ForArtists/block200.jpg"
 category: "For Artists"
-author: "Miranda Peak"
+author: "Miranda Peak & Brooke Schutz"
 artist: "[Artist name]"
 website: "[Artist website]"
 titleWebsite: "[Website name]"
 draft: false
 ---
+#### Have Artist's Block?
 
-Are you someone who’s looking to create, but is stuck? In the middle of a piece or itching to start one, but don’t know where to begin?
+*Are you someone who’s looking to create, but don’t know where to begin? In the middle of a piece, but don’t know how to continue? Do you just feel stuck?*
 
-NONE TO WORRY!
+**NONE TO WORRY!**
 
-Here, at Art Hub Studio, we care about the success of caring, passionate artists. We want to see you succeed and excel in your skill and to help get your work out in the world.
+*Artist's block happens to everyone. This post will give you the tools to break through the wall.*
 
 #### What is Artist’s block?
 
-Artist’s block is when your motivation and creative juices have been fully wrung. Last week, you may have had amazing, groundbreaking ideas, but now you are left scratching your head, not sure where those ideas went.
+Artist’s block is when your motivation is lost and your creativity runs dry. Last week, you may have had amazing, groundbreaking ideas, but now you are left scratching your head, unsure of where those ideas went or how to pursue them.
 
 This is a normal barrier that occurs in the majority of artists.
 
-#### How do I overcome Artist’s block?
+How do I overcome Artist’s block?
 
-Everyone is different. There is a ton of advice given online, which answers this specific question, but the greatest piece of advice that is overlooked is…
+Everyone is different. There's a ton of advice given Online, but have you ever asked yourself "when's the last time I've had a break?"
 
-GIVE YOURSELF TIME! AND REST!
+Burn out is a real killer. Staring at something for so long sends you into a spiraling pit of chaos, disharmony, and entropy.
 
-You may have been creating art for years at this point. Of course, you’d get burnt out eventually. Everyone does. Step away from the easel and come back later. Your paint brush isn’t going anywhere. Besides, if you’re already selling through us, we already have all these prints of yours to sell.
+GIVE YOURSELF TIME AND REST!
 
-#### But I already took a break and feel well rested. What do I do now?
+Step away from the easel and come back later. Your paint brush isn’t going anywhere. Sometimes leaving a project for some needed rest and relaxation can renew your perspective and give you a clearer path to success.
 
-Still stuck? Maybe you have to revisit the basics again. Copy the old masters like you did in school. Practice figure drawing and still lifes. Study and analyze art, keeping a journal as you go along, documenting any and all artist processes you have come across. Maybe you have to try out new styles or new mediums. Experiment while having fun at the same time.
+#### Alright, now that you're rested...
 
-Not everything you create has to be sold through us. We understand if you need some time to recuperate your art.
+1. Revisit the basics again. Copy the old masters like you did in school. Practice figure drawing and still life. Sometimes seeing where you came from can ground you, and remind you,why you're doing this project in the first place.
 
-Talk to us if you want some human-to-human contact, someone to bounce off your ideas to.
+2. Study and analyze art, keeping a journal as you go along. Document any and all observations. Seeing how others portray art gives you perspective. When reviewing art, be subjective. What makes their art good and bad? It'll help shape and define your personal style.
 
-GOOD LUCK!
+3. Experiment. Maybe you have to try out new styles, techniques, or mediums. Experimenting can teach you through a fun and practical approach.
+
+4. Get an outside opinion. Constructive criticism from peers can shine a light on something you haven't thought about before.
+
+#### GOOD LUCK!
