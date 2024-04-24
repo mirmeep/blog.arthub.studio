@@ -30,7 +30,7 @@ Artist’s block is when your motivation is lost and your creativity runs dry. L
 
 This is a normal barrier that occurs in the majority of artists.
 
-How do I overcome Artist’s block?
+#### How do I overcome Artist’s block?
 
 Everyone is different. There's a ton of advice given Online, but have you ever asked yourself "when's the last time I've had a break?"
 
