@@ -10,9 +10,9 @@ website: "[Artist website]"
 titleWebsite: "[Website name]"
 draft: false
 ---
-#### Have Artist's Block?
+{{% bootstrap-col class="content-justify"%}}
 
-<div style='text-align: justify;'>
+#### Have Artist's Block?
 
 *Are you someone who’s looking to create, but don’t know where to begin? In the middle of a piece, but don’t know how to continue? Do you just feel stuck?*
 
@@ -20,11 +20,7 @@ draft: false
 
 *Artist's block happens to everyone. This post will give you the tools to break through the wall.*
 
-<div>
-
 #### What is Artist’s block?
-
-<div style='text-align: justify;'>
 
 Artist’s block is when your motivation is lost and your creativity runs dry. Last week, you may have had amazing, groundbreaking ideas, but now you are left scratching your head, unsure of where those ideas went or how to pursue them.
 
@@ -40,35 +36,30 @@ Burn out is a real killer. Staring at something for so long sends you into a spi
 
 Step away from the easel and come back later. Your paint brush isn’t going anywhere. Sometimes leaving a project for some needed rest and relaxation can renew your perspective and give you a clearer path to success.
 
-<div>
-
 #### Alright, now that you're rested...
 
-<div style='text-align: justify;'>
+>***1. Revisit the basics again.***
 
->***1. Revisit the basics again.*** 
->
->>- Copy the old masters like you did in school. Practice figure drawing and still life. Sometimes seeing where you came from can ground you and remind you **why** you're doing this project in the first place.
+- Copy the old masters like you did in school. Practice figure drawing and still life. Sometimes seeing where you came from can ground you and remind you **why** you're doing this project in the first place.
 
 >***2. Study and analyze art.***
-> 
->>- Keep a journal as you go along. Document any and all observations. Seeing how others portray art gives you perspective. When reviewing art, be subjective. What makes their art good and bad? It'll help shape and define your personal style.
+
+- Keep a journal as you go along. Document any and all observations. Seeing how others portray art gives you perspective. When reviewing art, be subjective. What makes their art good and bad? It'll help shape and define your personal style.
 
 >***3. Experiment.***
-> 
->>- Maybe you have to try out new styles, techniques, or mediums. Experimenting can teach you through a fun and practical approach.
+
+- Maybe you have to try out new styles, techniques, or mediums. Experimenting can teach you through a fun and practical approach.
 
 >***4. Get an outside opinion.***
-> 
->>- Constructive criticism from peers can shine a light on something you haven't thought about before.
 
->***5. Don't be a perfectionist.*** 
->
->>- Just remember Art is perfectly imperfect, Wabi Sabi; a subject planned for a future post.
+- Constructive criticism from peers can shine a light on something you haven't thought about before.
+
+>***5. Don't be a perfectionist.***
+
+- Just remember Art is perfectly imperfect, Wabi Sabi; a subject planned for a future post.
 
 In conclusion, take a break, rediscover yourself, and have fun doing it. If you need further guidance or someone to talk to [Contact us](https://arthub.studio/contact).
 
-
-<div>
-
 #### Good luck and break through that wall!
+
+{{% /bootstrap-col %}}
