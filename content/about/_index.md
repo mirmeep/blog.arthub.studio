@@ -17,7 +17,7 @@ description_body: "Maintain an art community that provides ease and support to a
 {{% /bootstrap-row %}}
 
 {{% bootstrap-row %}}
-{{% bootstrap-col class="col-md-6" %}}
+{{% bootstrap-col class="main-text-block col-md-6 mx-auto" %}}
 
 #### What is Art Hub Studio LLC?
 
@@ -25,7 +25,10 @@ Art Hub Studio LLC is a startup company dedicated to solving two major problems 
 
 As of now, we are only selling stretched canvas and wall posters of artwork. As the company grows, we'll incorporate the sale of original art and possibly other printing methods.
 {{% /bootstrap-col %}}
-{{% bootstrap-col class="col-md-6" %}}
+{{% /bootstrap-row %}}
+
+{{% bootstrap-row %}}
+{{% bootstrap-col class="main-text-block col-md-6 mx-auto" %}}
 
 #### How do artist commissions work?
 
@@ -45,7 +48,7 @@ Here are the recommended commissions on the following chart.\
 {{% /bootstrap-col %}}
 {{% /bootstrap-row %}}
 {{% bootstrap-row %}}
-{{% bootstrap-col class="col-md-6" %}}
+{{% bootstrap-col class="main-text-block col-md-6 mx-auto" %}}
 
 #### What ensures a quality print?
 
@@ -59,7 +62,9 @@ All products go through a standardized quality control check to ensure the color
 \
 *You can guarantee to get a product that was cared for, start to finish.*
 {{% /bootstrap-col %}}
-{{% bootstrap-col class="col-md-6" %}}
+{{% /bootstrap-row %}}
+{{% bootstrap-row %}}
+{{% bootstrap-col class="main-text-block col-md-6 mx-auto" %}}
 
 #### How do you support this growing business?
 
