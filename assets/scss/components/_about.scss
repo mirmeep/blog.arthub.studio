@@ -62,7 +62,13 @@
 }
 
 .main-text-block {
-  /*box-shadow: 0 0 1em 0 #000000;*/
+  box-shadow: $shadow-elevation-medium;
   border-radius:2em;
-  padding: 2em;
+  padding: 2.5em;
+  padding-top:3.5em;
+  margin-bottom:1.5em;
+}
+
+.sub-text-block {
+  padding:3em;
 }

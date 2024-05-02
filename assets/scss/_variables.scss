@@ -15,3 +15,18 @@ $black: #000;
 // Font Variables
 $primary-font: 'Montserrat', sans-serif;
 $secondary-font: 'Montserrat', sans-serif;
+
+// Drop Shadows
+$shadow-color: 226deg 27% 65%;
+$shadow-elevation-low:
+  0px 0.6px 0.8px #{'hsl($shadow-color / 0.23)'},
+  0px 2.5px 3.3px -1.2px #{'hsl($shadow-color / 0.46)'};
+$shadow-elevation-medium:
+  0px 0.6px 0.8px #{'hsl(226deg 27% 65% / 0.32)'},
+  -0.1px 12.3px 16.1px -1.2px #{'hsl(226deg 27% 65% / 0.65)'};
+$shadow-elevation-high:
+  0px 0.6px 0.8px #{'hsl($shadow-color / 0.4)'},
+  -0.2px 15.9px 20.9px -0.6px #{'hsl($shadow-color / 0.67)'},
+  -0.6px 58.1px 76.3px -1.2px #{'hsl($shadow-color / 0.94)'};
+
+  
