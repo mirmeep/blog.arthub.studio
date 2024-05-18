@@ -1,11 +1,13 @@
 ---
-title: "ARTIST: Tony Murchison, The Artificer"
+title: "ARTIST: Tony Murchison"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/tony-post-long.png"
+image: "images/projects/tony-post-long.webp"
 category: ["Artist"]
-project_images: ["images/projects/tony-art.jpg"]
+project_images: ["images/projects/tony-art.webp"]
 ---
+### The Artificer
+
 Tony Murchison is a Netherlands-based artist and 3D-designer. He uses both digital and traditional media to create drawings, paintings, miniatures, and miscellaneous other designs. His work usually focuses on the subversion of traditional folklore and fantasy stereotypes. Paintings involve monsters showing kindness, hunted creatures becoming hunters, or mice learning magic against all odds.\
 \
 Tony's art experience started well before any formal education, with elaborate pencil portraits of his favorite characters and stories. The following years saw him attending university, learning formal design skills and attending drawing classes at Delft University. His personal style and experience grew right alongside it, learning both digital painting and 3D sculpting on his own initiative.\
