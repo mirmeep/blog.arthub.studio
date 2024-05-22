@@ -3,7 +3,7 @@ title: "Artist's Block"
 date: 2024-03-29T11:14:32-07:00
 image: "images/blog/ForArtists/block100.jpg"
 feature_image: "images/blog/ForArtists/block200.jpg"
-category: "For Artists"
+categories: [ "For Artists" ]
 author: "Miranda Peak & Brooke Schutz"
 artist: "[Artist name]"
 website: "[Artist website]"

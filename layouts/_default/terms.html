@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section class="site-blog-header">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h1>{{ .Title }}</h1>
+        <p>
+          {{ .Params.description }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+<ul>
+  {{ range .Data.Pages }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <dl>
+        <!-- Handling brands that don't have a corresponding page by using 'with' -->
+        {{ with .Params.website }}
+          <dt>Website</dt><dd>{{ . }}</dd>
+        {{ end }}
+        {{ with .Params.description }}
+          <dt>Description</dt><dd>{{ . }}</dd>
+        {{ end }}
+      </dl>
+  {{ end }}
+</ul>
+
+{{ end }}

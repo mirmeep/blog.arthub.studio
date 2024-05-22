@@ -3,7 +3,7 @@ title: "Art Grocery Store Bull"
 date: 2024-01-23T10:57:32-07:00
 image: "images/blog/Artwork/bull100.webp"
 feature_image: "images/blog/Artwork/bull200.webp"
-category: "Artwork"
+categories: [ "Artwork" ]
 author: "Brooke Schutz"
 artist: "Tony Murchison"
 website: "https://ko-fi.com/tonymurchison"

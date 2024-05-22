@@ -3,7 +3,7 @@ title: 'Chinese Tuo La Ji 拖拉机 Engine'
 date: 2024-01-22T15:04:03-08:00
 image: images/blog/Artwork/tou-la-ji-post.webp
 feature_image: images/blog/Artwork/tou-la-ji-home.webp
-category: 'Artwork'
+categories: [ "Artwork" ]
 author: 'Brooke Schutz'
 artist: "Miranda Peak"
 website: ""
