@@ -8,9 +8,9 @@
           <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span></p>
           <h2 class="blog-title">{{ .Title }}</h2>
           <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
-          {{ if eq .Params.category "Artwork" }}<p style="font-style: italic;">Artwork by {{ .Params.artist }}</p>{{ end }}
+          {{ if eq (index .Params.categories 0) "Artwork" }}<p style="font-style: italic;">Artwork by {{ .Params.artist }}</p>{{ end }}
           {{ .Content }}
-          {{ if eq .Params.category "Artwork" }}
+          {{ if eq (index .Params.categories 0) "Artwork" }}
             <hr>
             <p style="font-style: italic;">
               This blog post is an art review and interpretation by {{ .Params.author }}. 
