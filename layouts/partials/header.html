@@ -39,31 +39,44 @@
         {{$menu := (.Site.Menus.nav)}} 
         {{$len := (len $menu)}} 
         {{ range $index, $element := $menu }} 
-          {{ if eq (add $index 1) $len }}
-          <li class="nav-item">
-            <a
-              class="nav-link btn btn-sm btn-primary btn-sm-rounded"
-              href="{{ .URL }}"
-              style="pointer-events:none;"
-            >
-              <span class="btn-area">
-                <span data-text="Store coming soon!">
-                  Online store coming soon!
+          {{ if eq (add $index 1) $len }} <!-- Online Store Case -->
+            <li class="nav-item">
+              <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="{{ .URL }}" style="pointer-events:none;">
+                <span class="btn-area">
+                  <span data-text="Store coming soon!">
+                    Online store coming soon!
+                  </span>
                 </span>
-                <!--
-                <span data-text="{{ .Name }}">
-                  {{ .Name }}
-                </span>
-                -->
-              </span>
-            </a>
-          </li>
+              </a>
+            </li>
           {{ else }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absURL }}"
-              >{{ .Name }}</a
-            >
-          </li>
+            <li class="nav-item">
+              {{if .HasChildren }}
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{.Name}}
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    {{ range $index, $element := .Children }}
+                      {{ if eq $index 0 }}
+                        <li style="text-align:center; font-weight:bold;">MAIN BLOG</li>
+                        <li style="padding-bottom: 1em;">
+                          <a href="{{ .URL | absURL }}" class="dropdown-item">{{ .Name }}</a>
+                        </li>
+                      {{ else if eq $index 1 }}
+                        <li style="text-align:center; font-weight:bold;">{{ .Name }}</li>
+                      {{ else }}
+                        <li class="">
+                            <a href="{{ .URL | absURL }}" class="dropdown-item">{{ .Name }}</a>
+                        </li>
+                      {{ end }}
+                    {{ end }}
+                  </ul>
+                </li>
+              {{ else }}
+                <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+              {{ end }}
+            </li>
           {{ end }} 
         {{ end }}
       </ul>
