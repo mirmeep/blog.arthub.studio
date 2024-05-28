@@ -13,14 +13,14 @@
 </section>
 <ul>
   {{ range .Data.Pages }}
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
       <dl>
         <!-- Handling brands that don't have a corresponding page by using 'with' -->
         {{ with .Params.website }}
           <dt>Website</dt><dd>{{ . }}</dd>
         {{ end }}
         {{ with .Params.description }}
-          <dt>Description</dt><dd>{{ . }}</dd>
+          <dd>{{ . }}</dd>
         {{ end }}
       </dl>
   {{ end }}
