@@ -4,7 +4,7 @@ date: 2022-03-07 19:28:13
 image: "images/blog/Development/old-ladies.jpg"
 feature_image: "images/blog/Development/old-ladies.jpg"
 author: "Brooke Schutz"
-categories: [ "AHS Development" ]
+categories: [ "Development" ]
 draft: false
 ---
 

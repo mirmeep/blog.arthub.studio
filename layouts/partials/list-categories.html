@@ -1,12 +1,5 @@
-<section class="site-blog">
-	<div class="container">
-		<div class="row">
-			<h4>Blog Categories</h4>
-		</div>
-		{{ range $key, $value := .Site.Taxonomies.categories }}
-		<div class="row">
-			<a href="{{ absURL `categories`}}/{{$key}}"><h5>{{ $key | humanize }}</h5></a>
-		</div>
-		{{ end }}		
-	</div>
-</section>
+<h4>Categories</h4>
+{{ range $key, $value := .Site.Taxonomies.categories }}
+	<a href="{{ absURL `categories`}}/{{$key}}"><h5 style="font-weight:normal;">{{ $key | humanize }}</h5></a>
+{{ end }}		
+
