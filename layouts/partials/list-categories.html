@@ -9,6 +9,6 @@
 {{ end }}	
 
 {{ if not (strings.Contains $currentPage "blog") }}
-	<a href="{{ absURL `blog`}}"><h5 style="font-weight:normal; padding-top:1em;">&#60; All Content</h5></a>
+	<a class="category nav-link" href="{{ absURL `blog`}}"><h5 style="font-weight:normal; padding-top:1em;">&#60; All Content</h5></a>
 {{ end }}
 
