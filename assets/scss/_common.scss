@@ -76,3 +76,9 @@ select.form-control{
 textarea.form-control{
   height: auto;
 }
+
+.active * {
+  background-color: $primary-color;
+  color: $gray;
+  border-radius: 2em;
+}

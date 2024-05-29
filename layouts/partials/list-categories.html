@@ -1,9 +1,14 @@
 
 <h4>Categories</h4>
+{{ $currentPage := .RelPermalink }}
+
 {{ range $key, $value := .Site.Taxonomies.categories }}
-	<a href="{{ absURL `categories`}}/{{$key}}"><h5 style="font-weight:normal;">{{ $key | humanize }}</h5></a>
+<div class="{{ if strings.Contains $currentPage $key }}active {{ end }}">
+	<a class="nav-link" href="{{ absURL `categories`}}/{{$key}}"><h5 style="font-weight:normal;">{{ $key | humanize }}</h5></a>
+</div>
 {{ end }}	
 
-<a href="{{ absURL `blog`}}"><h5 style="font-weight:normal; padding-top:1em;">&#60; All Content</h5></a>
-
+{{ if not (strings.Contains $currentPage "blog") }}
+	<a href="{{ absURL `blog`}}"><h5 style="font-weight:normal; padding-top:1em;">&#60; All Content</h5></a>
+{{ end }}
 
