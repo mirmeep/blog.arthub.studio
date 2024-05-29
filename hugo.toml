@@ -27,35 +27,6 @@ summarylength = 10
     name    = "Blog"
     url     = "blog"
     weight  = 4
-      [[menu.nav]]
-        name = "A Curated Peruse"
-        url = "blog"
-        parent = "blog"
-        weight = 1
-      [[menu.nav]]
-        name = "CATEGORIES"
-        parent = "blog"
-        weight = 1
-      [[menu.nav]]
-        name = "AHS Development"
-        url = "categories/ahs-development"
-        parent = "blog"
-        weight = 2
-      [[menu.nav]]
-        name = "Artwork"
-        url = "categories/artwork"
-        parent = "blog"
-        weight = 3
-      [[menu.nav]]
-        name = "Why Art?"
-        url = "categories/why-art"
-        parent = "blog"
-        weight = 4
-      [[menu.nav]]
-        name = "For Artists"
-        url = "categories/for-artists"
-        parent = "blog"
-        weight = 5
   [[menu.nav]]
     identifier = "contact"
     name    = "Contact"
