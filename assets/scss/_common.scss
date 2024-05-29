@@ -77,8 +77,16 @@ textarea.form-control{
   height: auto;
 }
 
-.active * {
+div.active {
   background-color: $primary-color;
-  color: $gray;
   border-radius: 2em;
+  opacity: .5;
+}
+
+.category:hover {
+  opacity:.33;
+}
+
+.active *, .category:hover {
+  color: $white;
 }

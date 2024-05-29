@@ -3,7 +3,7 @@
 {{ $currentPage := .RelPermalink }}
 
 {{ range $key, $value := .Site.Taxonomies.categories }}
-<div class="{{ if strings.Contains $currentPage $key }}active {{ end }}">
+<div class="category {{ if strings.Contains $currentPage $key }}active {{ end }}">
 	<a class="nav-link" href="{{ absURL `categories`}}/{{$key}}"><h5 style="font-weight:normal;">{{ $key | humanize }}</h5></a>
 </div>
 {{ end }}	
