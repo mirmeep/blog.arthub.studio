@@ -1,0 +1,20 @@
+
+{{ $pages := where .Site.RegularPages.ByWeight "Section" "pages" }}
+
+{{ printf "%#v" $pages }}
+
+<div class="col">
+    {{ with $pages.Prev . }}
+        <a class="nav-link prev" href="{{ .RelPermalink }}">&#60; Previous blog</a>
+    {{ end }}
+</div>
+<div class="col">
+    {{ with $pages.Next . }}
+        <a class="nav-link next" href="{{ .RelPermalink }}">&#60; Next blog</a>
+    {{ end }}
+</div>
+
+
+
+
+

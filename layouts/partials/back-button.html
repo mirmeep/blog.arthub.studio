@@ -1,3 +1,4 @@
 <div class="back-button">
-    <span class="nav-link" onclick="history.back()" style="cursor: pointer;font-weight:normal; padding-top:1em;">&#60; Back to blog articles</span>
+    {{ $categoryPage := printf "%s" (index .Params.categories 0) | printf "%s%s" "categories/" | printf "%s" | urlize }}
+    <a class="nav-link" href="{{ absURL $categoryPage }}"><h6 style="cursor: pointer;font-weight:normal;">&#60; View more in this category</h6></a>
 </div> 

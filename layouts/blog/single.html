@@ -2,8 +2,13 @@
 
 <section class="site-blog details">
   <div class="container">
-    <div class="row">
-      {{ partial "back-button.html" }}
+    <div class="row pb-5">
+      <div class="col-sm-6">
+        {{ partial "back-button.html" . }}
+      </div>
+      <div class="col-sm-6">
+        <!-- Previous and Next buttons here -->
+      </div>
     </div>
     <div class="row justify-content-center">  
       <div class="col-lg-8">
@@ -27,12 +32,15 @@
       </div>
     </div>
     <div class="row">
-      {{ partial "back-button.html" }}
+      <div class="col-sm-6">
+        {{ partial "back-button.html" . }}
+      </div>
+      <div class="col-sm-6">
+        <!-- Previous and Next buttons here -->
+      </div>
     </div>
   </div>
 </section>
-
-
 
 {{ partial "call-to-action.html" . }}
 
