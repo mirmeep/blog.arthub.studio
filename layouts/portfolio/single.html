@@ -16,18 +16,34 @@
           <div class="site-project-single-description">
             {{ .Content }}
           </div>
-          {{ if .NextInSection }}
-          <div class="site-project-single-action">
-            <a href="{{.NextInSection.Permalink}}">
-              <span class="link-area">
-                <span data-text="Next Project">
-                  Next Project
-                </span>
-              </span>
-              <img src="{{ "images/to-top.svg" | absURL }}" alt="next project">
-            </a>
+          <div class="row">
+            <div class="col-sm-6">
+              {{ if .PrevInSection }}
+              <div class="site-project-single-action float-left">
+                <a href="{{.PrevInSection.Permalink}}">
+                  <span class="link-area">
+                    <span data-text="< Previous Artist">
+                      &#60; Previous Artist
+                    </span>
+                  </span>
+                </a>
+              </div>
+              {{ end }}
+            </div>
+            <div class="col-sm-6">
+              {{ if .NextInSection }}
+              <div class="site-project-single-action">
+                <a href="{{.NextInSection.Permalink}}">
+                  <span class="link-area">
+                    <span data-text="Next Artist >">
+                      Next Artist &#62;
+                    </span>
+                  </span>
+                </a>
+              </div>
+              {{ end }}
+            </div>
           </div>
-          {{ end }}
         </div>
       </div>
     </div>
