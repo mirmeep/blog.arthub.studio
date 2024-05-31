@@ -23,22 +23,23 @@
           <div class="row">
             {{ range (.Paginator 4).Pages }}
             <div class="col-lg-6">
-              <article class="site-blog-post">
-                {{ with .Params.image }}
-                <div class="site-blog-post-thumb" style="min-height:50em;">
-                  <img src="{{ . | absURL }}" alt="post-thumb">
-                </div>
-                {{ end }}
-                <div class="site-blog-post-content">
-                  <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
-                  <span> {{ range .Params.categories }}{{ . }} {{ end }}</span> <!-- Get categories of post -->
-                  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                  <p>
-                    {{ .Summary }} ...
-                  </p>
-                  <a href="{{ .Permalink }}" class="read-more">{{ .Site.Params.blog.read_more }}</a>
-                </div>
-              </article>
+              <a href="{{ .Permalink }}">
+                <article class="site-blog-post">
+                  {{ with .Params.image }}
+                  <div class="site-blog-post-thumb" style="min-height:50em;">
+                    <img src="{{ . | absURL }}" alt="post-thumb">
+                  </div>
+                  {{ end }}
+                  <div class="site-blog-post-content">
+                    <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+                    <span> {{ range .Params.categories }}{{ . }} {{ end }}</span> <!-- Get categories of post -->
+                    <h3>{{ .Title }}</h3>
+                    <p>
+                      {{ .Summary }} ...
+                    </p>
+                  </div>
+                </article>
+              </a>
             </div>
             {{ end }}
             <div class="col-12">
