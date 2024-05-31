@@ -1,18 +1,27 @@
-
-{{ $pages := where .Site.RegularPages.ByWeight "Section" "pages" }}
-
-{{ printf "%#v" $pages }}
-
-<div class="col">
-    {{ with $pages.Prev . }}
-        <a class="nav-link prev" href="{{ .RelPermalink }}">&#60; Previous blog</a>
-    {{ end }}
-</div>
-<div class="col">
-    {{ with $pages.Next . }}
-        <a class="nav-link next" href="{{ .RelPermalink }}">&#60; Next blog</a>
-    {{ end }}
-</div>
+<div class="row">
+    <div class="col-sm-6">
+      {{ if .PrevInSection }}
+      <div class="site-project-single-action float-left prev-next-button">
+        <a class="nav-link" href="{{.PrevInSection.Permalink}}">
+            <h6 style="cursor: pointer;font-weight:normal;">
+                    &#60; Previous Post
+            </h6>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    <div class="col-sm-6">
+      {{ if .NextInSection }}
+      <div class="site-project-single-action prev-next-button">
+        <a class="nav-link" href="{{.NextInSection.Permalink}}">
+            <h6 style="cursor: pointer;font-weight:normal;">
+                Next Post &#62;
+            </h6>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
 
 
 

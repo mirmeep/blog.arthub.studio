@@ -91,6 +91,6 @@ div.active {
   color: $white;
 }
 
-.back-button:hover {
+.back-button:hover, .prev-next-button:hover {
   opacity:.33;
 }
