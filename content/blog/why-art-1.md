@@ -1,8 +1,8 @@
 ---
 title: "Why Art? Introduction"
 date: 2024-03-29T10:29:08-07:00
-image: "images/blog/WhyArt/whyart100.jpg"
-feature_image: "images/blog/WhyArt/whyart200.jpg"
+image: "images/blog/WhyArt/whyart100.webp"
+feature_image: "images/blog/WhyArt/whyart200.webp"
 categories: [ "Why Art?" ]
 author: "Miranda Peak"
 artist: "[Artist name]"
