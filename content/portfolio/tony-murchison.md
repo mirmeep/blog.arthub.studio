@@ -2,9 +2,9 @@
 title: "ARTIST: Tony Murchison"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/tony-post-long.webp"
+image: "images/artists/tony-murchison/tony-post-long.webp"
 category: ["Artist"]
-project_images: ["images/projects/tony-art.webp"]
+project_images: ["images/artists/tony-murchison/tony-art.webp"]
 ---
 ### The Artificer
 

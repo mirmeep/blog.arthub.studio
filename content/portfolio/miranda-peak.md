@@ -2,9 +2,9 @@
 title: "ARTIST: Miranda Peak"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
-image: "images/projects/miranda-artist.webp"
+image: "images/artists/miranda-peak/miranda-artist.webp"
 category: ["Artist"]
-project_images: ["images/projects/miranda-peak-blog.webp"]
+project_images: ["images/artists/miranda-peak/miranda-peak-blog.webp"]
 ---
 ### Miranda Peak is a talented photographer and Full-Stack Developer for Art Hub Studio LLC.
 
