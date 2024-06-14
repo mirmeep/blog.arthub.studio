@@ -257,3 +257,16 @@ background-color: #FF6600
   background-color: #046293;
   border-color: #046293;
 }
+
+.resp-sharing-button--copy {
+  background-color: $primary-color;
+}
+
+.resp-sharing-button--copy:hover{
+  background-color: $text-color;
+  cursor: pointer;
+}
+
+#copy-text{
+  color:$body-color;
+}
