@@ -7,8 +7,16 @@
         {{ partial "list-categories.html" . }}
       </section> 
     </div>
-    <div class="col">
+    <div class="col-xs-2 d-xs-block d-sm-inline-block d-md-none d-lg-none mx-auto">
       <section class="site-blog-header">
+        <a href="#posts" class="site-project-header-action scroll-to">
+          <span>{{ .Site.Params.portfolio.scroll_down }}</span>
+          <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
+        </a>
+    </section>
+    </div>
+    <div class="col">
+      <section class="site-blog-header" id="posts">
           <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
               <h1>{{ .Title }}</h1>
