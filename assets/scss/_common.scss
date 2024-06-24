@@ -108,7 +108,6 @@ div.active {
 }
 
 .popup {
-  font-family: Arial, sans-serif;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -141,7 +140,7 @@ div.active {
 }
 
 .popup button {
-  background-color: #4caf50;
+  background-color: $primary-color;
   color: #fff;
   padding: 10px 20px;
   border: none;

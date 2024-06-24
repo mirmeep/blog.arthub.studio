@@ -17,17 +17,9 @@
         }
 
         // Function to close the popup   
-        function closePopupFunc() {
+        window.closePopupFunc=function() {
             window.removeEventListener('scroll', noScroll);
             popupOverlay.style.display = 'none';   
-        }
-        
-        // Function to submit the signup form 
-        function submitForm() { 
-            const email = emailInput.value; 
-            // Add your form submission logic here   
-            console.log(`Email submitted: ${email}`);   
-            closePopupFunc(); // Close the popup after form submission   
         }
         
         // Event listeners   
@@ -50,10 +42,8 @@
     <div class="popup" id="popup">
         <span class="close" id="closePopup">&times;</span>
         <div class="popup-content">
-            <p>Welcome to our website!</p>
-            <p>Sign up to receive exclusive offers:</p>
-            <input type="email" placeholder="Your email" id="emailInput">
-            <button onclick="submitForm()">Sign Up</button>
+            <p>COMMISSIONS TABLE HERE</p>
+            <a class="btn btn-primary btn-sm-rounded" onclick="closePopupFunc()">Got it!</a>
         </div>
     </div>
 </div>
