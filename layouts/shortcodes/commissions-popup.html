@@ -1,0 +1,67 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function () {   
+        const popupOverlay = document.getElementById('popupOverlay');  
+        const popup = document.getElementById('popup');  
+        const closePopup = document.getElementById('closePopup');   
+        const emailInput = document.getElementById('emailInput');
+
+        //disable scrolling
+        function noScroll() {
+            window.scrollTo(0, 0);
+        }
+        
+        // Function to open the popup    
+        window.openPopup=function() {
+            window.addEventListener('scroll', noScroll);
+            popupOverlay.style.display = 'block';  
+        }
+
+        // Function to close the popup   
+        function closePopupFunc() {
+            window.removeEventListener('scroll', noScroll);
+            popupOverlay.style.display = 'none';   
+        }
+        
+        // Function to submit the signup form 
+        function submitForm() { 
+            const email = emailInput.value; 
+            // Add your form submission logic here   
+            console.log(`Email submitted: ${email}`);   
+            closePopupFunc(); // Close the popup after form submission   
+        }
+        
+        // Event listeners   
+        // Close the popup when the close button is clicked
+        
+        closePopup.addEventListener('click', closePopupFunc);
+        
+        // Close the popup when clicking outside the popup content   
+        popupOverlay.addEventListener('click', function (event) { 
+            if (event.target === popupOverlay) {
+                closePopupFunc();
+            }  
+        });
+    
+    // You can customize and expand these functions based on your specific requirements.  
+    });
+</script>
+
+<div class="popup-overlay" id="popupOverlay">
+    <div class="popup" id="popup">
+        <span class="close" id="closePopup">&times;</span>
+        <div class="popup-content">
+            <p>Welcome to our website!</p>
+            <p>Sign up to receive exclusive offers:</p>
+            <input type="email" placeholder="Your email" id="emailInput">
+            <button onclick="submitForm()">Sign Up</button>
+        </div>
+    </div>
+</div>
+
+<a onclick="openPopup()" class="btn btn-primary btn-sm-rounded">
+    <span class="btn-area">
+        <span data-text="Test">
+            Test
+        </span>
+    </span>
+</a>

@@ -26,7 +26,7 @@ Art Hub Studio LLC is a startup company dedicated to solving two major problems 
 As of now, we are only selling stretched canvas and wall posters of artwork. As the company grows, we'll incorporate the sale of original art and possibly other printing methods.
 {{% /bootstrap-col %}}
 
-{{% bootstrap-col class="main-text-block col-md-5 mx-auto" %}}
+{{< bootstrap-col class="main-text-block col-md-5 mx-auto" >}}
 
 #### How do artist commissions work?
 
@@ -35,8 +35,9 @@ Commissions are a flat rate per unit. Art Hub Studio LLC will discuss recommende
 Here are the recommended commissions on the following chart.\
 \
 [Insert recommended commissions table]
+{{< commissions-popup >}}
 
-{{% /bootstrap-col %}}
+{{< /bootstrap-col >}}
 {{% /bootstrap-row %}}
 
 {{% bootstrap-row %}}
