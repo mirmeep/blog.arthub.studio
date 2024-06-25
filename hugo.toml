@@ -1,7 +1,7 @@
 baseURL       = "https://arthub.studio/"
 languageCode  = "en-us"
 title         = "Art Hub Studio LLC"
-theme         = "roxo-hugo"
+theme         = ["hugo-embed-pdf-shortcode", "roxo-hugo"]
 summarylength = 10
 
 # Site Menus
