@@ -23,7 +23,7 @@ description_body: "Maintain an art community that provides ease and support to a
 
 Art Hub Studio LLC is a startup company dedicated to solving two major problems with online art sales; fair revenue to artists and standards for high quality prints.
 
-As of now, we are only selling stretched canvas and wall posters of artwork. As the company grows, we'll incorporate the sale of original art and possibly other printing methods.
+As of now, we are only selling stretched canvas and fine art prints of artwork. As the company grows, we'll incorporate the sale of original art and possibly other printing methods.
 {{% /bootstrap-col %}}
 
 {{< bootstrap-col class="main-text-block col-md-5 mx-auto" >}}
@@ -53,7 +53,7 @@ Here are the recommended commissions on the following chart.
 \
 Here, at Art Hub Studio, we focus on quality over quantity.\
 \
-Art Hub Studio LLC has a small local workshop in Upstate New York where quality material is used to handcraft beautifully framed and stretched canvases.\
+Art Hub Studio LLC has a small local workshop in Upstate New York where quality material is used to handcraft beautifully framed and stretched canvases and fine art prints.\
 \
 All products go through a standardized quality control check to ensure the color profile and materials are visually appealing for the collector.\
 \
