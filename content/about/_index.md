@@ -33,7 +33,7 @@ As of now, we are only selling stretched canvas and wall posters of artwork. As 
 Commissions are a flat rate per unit. Art Hub Studio LLC will discuss recommended commissions with the artist based on market research, time, and materials put into the art.\
 \
 Here are the recommended commissions on the following chart.
-{{< commissions-popup >}}
+{{< embed-pdf url="/pdfs/rec-commissions.pdf" >}}
 
 {{< /bootstrap-col >}}
 {{% /bootstrap-row %}}
