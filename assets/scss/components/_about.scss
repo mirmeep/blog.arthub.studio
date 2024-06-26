@@ -78,3 +78,9 @@
 .sub-text-block {
   padding:3em;
 }
+
+/* Make links in about markdown accessible **/
+#about-information a {
+ color: $text-color-dark;
+ text-decoration: underline;
+}
