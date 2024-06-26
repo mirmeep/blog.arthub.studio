@@ -7,7 +7,29 @@
 .carousel ul li > div {display: flex; justify-content: center; align-items: center; color: white; font-weight: bold; font-size: 20px;}
 .carousel ol {position: absolute; bottom: 15px; display: flex; justify-content: center; left: 50%; transform: translateX(-50%); z-index: 9;}
 .carousel ol li {list-style: none; padding: 0 5px;}
-.carousel ol li a {display: block; height: 10px; width: 10px; border: 2px solid white; background: transparent; border-radius: 100%;}
-.carousel ol li.selected a {background: white;}
-.carousel .prev, .carousel .next {display: none; user-select:none; cursor: pointer; font-size: 50px; color: white; position: absolute; left: 0; padding: 15px 15px 30px; top: 50%; transform: translateY(-50%); z-index: 9; line-height: 0;}
+.carousel ol li a {
+    display: block; 
+    height: 1em; 
+    width: 1em; 
+    border: 2px solid white; 
+    background: transparent; 
+    border-radius: 100%;
+}
+.carousel ol li.selected a {
+    background: white;
+}
+.carousel .prev, .carousel .next {
+    display: none; 
+    user-select:none; 
+    cursor: pointer; 
+    font-size: 50px; 
+    color: white; 
+    position: absolute; 
+    left: 0; 
+    padding: 15px 15px 30px; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    z-index: 9; 
+    line-height: 0;
+}
 .carousel .next {left: auto; right: 0;}
