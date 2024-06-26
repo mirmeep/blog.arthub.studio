@@ -162,7 +162,7 @@ summarylength = 10
          # name = "Shipping Policy"
         #  url  = "shipping"
         [[params.footer.info.link]]
-          name = "Refund/Cancellation Policy"
+          name = "Cancellation, Return & Refund Policy"
           url  = "policies/refund"
       # Footer Service
       [params.footer.service]
