@@ -26,6 +26,6 @@ To be notified of new and upcoming content, follow Art Hub Studio LLC on our soc
 \
 Without Miranda Peak, Art Hub Studio LLC wouldn't be able to function. Show your support for Miranda by browsing Miranda's artwork on our store and blog.\
 \
-STORE: https://shop.arthub.studio\
+[Click here for our online store!](https://shop.arthub.studio)\
 \
-BLOG: https://arthub.studio/blog/
+[Click here for our blog!](https://arthub.studio/blog/)
