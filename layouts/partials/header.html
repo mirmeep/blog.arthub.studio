@@ -48,10 +48,10 @@
         {{ range $index, $element := $menu }} 
           {{ if eq (add $index 1) $len }} <!-- Online Store Case -->
             <li class="nav-item">
-              <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="{{ .URL }}" style="pointer-events:none;">
+              <a class="nav-link btn btn-sm btn-primary btn-sm-rounded" href="{{ .URL }}">
                 <span class="btn-area">
                   <span data-text="Store coming soon!">
-                    Online store coming soon!
+                    Store coming soon!
                   </span>
                 </span>
               </a>
