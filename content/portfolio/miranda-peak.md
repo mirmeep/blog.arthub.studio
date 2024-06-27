@@ -1,5 +1,7 @@
 ---
 title: "ARTIST: Miranda Peak"
+artist: "Miranda"
+personal_site: "https://www.instagram.com/nishimura_photography/"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
 image: "images/artists/miranda-peak/miranda-artist.webp"
@@ -24,8 +26,4 @@ Art Hub Studio would be honored to represent people of mixed-heritage descent th
 \
 To be notified of new and upcoming content, follow Art Hub Studio LLC on our social media or sign up for newsletters. Links are down in the footer.\
 \
-Without Miranda Peak, Art Hub Studio LLC wouldn't be able to function. Show your support for Miranda by browsing Miranda's artwork on our store and blog.\
-\
-[Click here for our online store!](https://shop.arthub.studio)\
-\
-[Click here for our blog!](https://arthub.studio/blog/)
+Without Miranda Peak, Art Hub Studio LLC wouldn't be able to function. Show your support for Miranda by browsing Miranda's artwork on our store and blog.

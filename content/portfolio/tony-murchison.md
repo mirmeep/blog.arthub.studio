@@ -1,5 +1,7 @@
 ---
 title: "ARTIST: Tony Murchison"
+artist: "Tony"
+personal_site: "https://ko-fi.com/tonymurchison"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
 image: "images/artists/tony-murchison/tony-post-long.webp"
@@ -22,8 +24,4 @@ Following graduation, Tony took on professional artwork. He has taken private an
 \
 Tony was kind enough to allow Art Hub Studio to use his artwork for practicing large format printing during our start-up phase.\
 \
- Art Hub Studio will represent Tony by selling prints of his artwork at our store. We hope Tony can pave a path for other Artists to become successful by using our services.\
-\
-***Support***  Tony by purchasing his artwork from our store here: https://shop.arthub.studio. \
-\
-Tony sells digital versions of his artwork on his Ko-Fi page here: https://ko-fi.com/tonymurchison.
+ Art Hub Studio will represent Tony by selling prints of his artwork at our store. We hope Tony can pave a path for other Artists to become successful by using our services.
