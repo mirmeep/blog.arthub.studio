@@ -42,8 +42,9 @@
         span{
           font-size: 14px;
         }
-        h3{
+        h2{
           margin-bottom: 15px;
+          font-size: 30px;
           @include mobile{
             font-size: 20px;
           }

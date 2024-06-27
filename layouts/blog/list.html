@@ -41,7 +41,7 @@
                   <div class="site-blog-post-content">
                     <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
                     <span> {{ range .Params.categories }}{{ . }} {{ end }}</span> <!-- Get categories of post -->
-                    <h3>{{ .Title }}</h3>
+                    <h2>{{ .Title }}</h2>
                     <p>
                       {{ .Summary }} ...
                     </p>
