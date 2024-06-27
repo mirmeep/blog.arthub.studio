@@ -223,6 +223,10 @@
       p{
         margin-bottom: 30px;
       }
+      a{
+        color: $text-color-dark;
+        text-decoration: underline;
+      }
     }
     &-action{
       a{
