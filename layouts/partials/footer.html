@@ -18,7 +18,7 @@
               <br>
 	    {{ end }}
 	    {{ if .email }}
-              <span style="text-decoration: underline;"><a href="{{ .url | absURL }}contact">{{ .email }}</a></span>
+              <a href="mailto: {{ .email }}">{{ .email }}</span>
 	    {{ end }}
           </p>
         </div>
