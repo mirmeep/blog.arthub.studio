@@ -116,7 +116,7 @@ summarylength = 10
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "PO Box 323<br>Cobleskill, NY 12043"
+      address = "Brooke Schutz<br>2363 James St #1180<br>Syracuse, NY 13206"
       phone   = "607-325-5500"
       email   = "brooke.schutz@arthub.studio"
     # Footer Sitemap
