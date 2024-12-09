@@ -1,7 +1,6 @@
 {{ .context.Scratch.Set "height" .height }}
 {{ .context.Scratch.Set "unit" .unit }}
 {{ .context.Scratch.Set "items" .items }}
-
 <div id="carousel10" class="carousel site-hero" duration="{{ .duration }}" items="{{ .items }}">
   <ul>
       {{ range $index, $slide := .context.Site.Data.carousel.images }}
