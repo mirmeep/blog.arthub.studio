@@ -33,9 +33,9 @@ summarylength = 10
     url     = "contact"
     weight  = 5
   [[menu.nav]]
-    identifier = "shop"
-    name    = "SHOP"
-    url     = "https://shop.arthub.studio"
+    identifier = "orders"
+    name    = "ORDERS"
+    url     = "https://art-hub-studio-llc.checkoutpage.co/portal"
     weight = 6
 
 # Site Params
