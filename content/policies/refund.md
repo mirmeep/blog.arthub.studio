@@ -3,9 +3,6 @@ title: 'Cancellation, Return & Refund Policy'
 date: 2024-01-04T12:08:26-08:00
 ---
 
-### Cancellation, Return & Refund Request Form
-To request cancel, return, and refund an order, please fill out our [Cancellation, Return & Refund Request form](https://art-hub-studio-llc.checkoutpage.co/cancelation-return-and-refund-request)
-
 #### Art Hub Studio LLC
 #### https://arthub.studio
 
@@ -15,7 +12,7 @@ Thank you for shopping at https://arthub.studio! If you’re not entirely satisf
 Since Art Hub Studio LLC’s business is comprised of 50% retail and 50% services, our cancellation/returns and refund policy is split into two sections. These sections are tailored for your unique situation of either purchasing retail merchandise, or hiring us for Licensor services.
 
 #### Retail Merchandise Order Cancellation
-1. You have the option to cancel your whole order, or part of your order via the contact form, emailing arthubstudiollc@gmail.com , or calling (607) 325-5500.
+1. You have the option to cancel your whole order, or part of your order via the [Cancellation, Return & Refund Request form](https://art-hub-studio-llc.checkoutpage.co/), emailing arthubstudiollc@gmail.com, or calling (607) 325-5500.
 
 2. The option to cancel will be available until your order ships.
 
