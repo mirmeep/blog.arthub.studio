@@ -12,14 +12,14 @@ Thank you for shopping at https://arthub.studio! If you’re not entirely satisf
 Since Art Hub Studio LLC’s business is comprised of 50% retail and 50% services, our cancellation/returns and refund policy is split into two sections. These sections are tailored for your unique situation of either purchasing retail merchandise, or hiring us for Licensor services.
 
 #### Retail Merchandise Order Cancellation
-1. You have the option to cancel your whole order, or part of your order via the [contact forms](https://art-hub-studio-llc.checkoutpage.co/cancelation-return-and-refund-request), emailing arthubstudiollc@gmail.com, or calling (607) 325-5500.
+1. You have the option to cancel your whole order, or part of your order via the [Cancellation, Return & Refund Request Form](https://art-hub-studio-llc.checkoutpage.co/cancelation-return-and-refund-request).
 
 2. The option to cancel will be available until your order ships.
 
 Art Hub Studio LLC processes orders at 1:00 p.m. EST Monday through Friday.  Any orders made before 1:00 p.m. will be processed that day. Any orders made after 1:00 p.m. will be processed the following business day. Processed means confirmation and the initiation of fulfilling your order. During fulfillment, time is of the essence to print, package and ship your order, which may be a few days after processing your order. Business structuring and operations within Art Hub Studio LLC may change order processing schedule at time of high demand or during holidays at the company’s discretion, any delays the company deems potentially unreasonable may result in notification to customer.
 
 #### Retail Merchandise Returns
-1. You have *seven calendar days to create a return request from the date you received your product. You may create a return request through our contact form, by emailing orders@arthub.studio, or calling (607) 325-5500.
+1. You have *seven calendar days to create a return request from the date you received your product. You may create a return request through our [Cancellation, Return & Refund Request Form](https://art-hub-studio-llc.checkoutpage.co/cancelation-return-and-refund-request).
 
 2. To be eligible for a return, **YOU MUST HAVE THE ORIGINAL CRATE OR PACKAGING YOUR ITEM WAS RECEIVED IN. (read comment below)  
 
