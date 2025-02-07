@@ -244,3 +244,21 @@ div.active {
   color: $body-color !important;
   text-decoration: underline;
 }
+
+/* Custom Carousel **/
+.carousel-canvas {
+  width: 50%;
+  margin: auto;
+  padding-top: 2em;
+  @include desktop-lg {
+    width: 80%
+  }
+  @include tablet {
+    width: 100%;
+    padding: 2em;
+  }
+  @include mobile {
+    width: 100%;
+    padding: 0;
+  }
+}
