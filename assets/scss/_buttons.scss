@@ -267,3 +267,9 @@ background-color: #FF6600
 #copy-text{
   color:$body-color;
 }
+
+#links .container{
+  @include mobile {
+    padding: 0;
+  }
+}
