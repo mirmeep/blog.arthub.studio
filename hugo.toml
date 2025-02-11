@@ -33,10 +33,15 @@ summarylength = 10
     url     = "https://art-hub-studio-llc.checkoutpage.co/contact-form"
     weight  = 5
   [[menu.nav]]
+    identifier = "shop-all"
+    name    = "Shop All"
+    url     = "shop-all"
+    weight  = 6
+  [[menu.nav]]
     identifier = "orders"
     name    = "ORDERS"
     url     = "https://art-hub-studio-llc.checkoutpage.co/portal"
-    weight = 6
+    weight = 7
 
 # Site Params
 [params]
