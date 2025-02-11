@@ -25,13 +25,12 @@
     <div class="row">
       {{ range (.Paginator 4).Pages }}
       <div class="col-lg-6 col-md-10 mx-auto">
-        <a href="{{ .Permalink }}">
+        <a href="{{ .Params.link }}" target="_blank">
         <div class="site-project-item">
           <div class="site-project-item-thumb">
-            <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            <img src="{{ .Params.image | absURL }}" alt="project-thumb">
           </div>
           <div class="site-project-item-content">
-            <span>{{ delimit .Params.category ", " }}</span>
             <h3>{{ .Title }}</h3>
           </div>
         </div>
