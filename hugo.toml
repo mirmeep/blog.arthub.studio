@@ -39,7 +39,7 @@ summarylength = 10
     weight = 6
   [[menu.nav]]
     identifier = "shop-all"
-    name    = "Shop All"
+    name    = "SHOP"
     url     = "shop-all"
     weight  = 7
 
