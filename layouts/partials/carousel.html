@@ -16,8 +16,10 @@
         <li><a aria-label="featured_image{{ add $index 1}}" href="#c10_slide{{ add $index 1 }}"></a></li>
       {{ end }}
     </ol>
-    <div class="prev">&lsaquo;</div>
-    <div class="next">&rsaquo;</div> 
+    {{ if gt (.context.Site.Data.carousel.images | len) 1 }}
+      <div class="prev">&lsaquo;</div>
+      <div class="next">&rsaquo;</div> 
+    {{ end }}
   </div>
 </div>
 <div class="container text-center">
@@ -27,14 +29,7 @@
     </div>
   </div>
   <div class="row">
-    <div class="col-md-6 col-sm-12 py-md-1 py-2">
-      <a href="https://art-hub-studio-llc.checkoutpage.co/valentines-tabletop-coloring-kit" target="_blank" class="btn btn-primary btn-sm-rounded">
-        <span class="btn-area">
-            Buy Now
-        </span>
-      </a>
-    </div>
-    <div class="col-md-6 col-sm-12 py-md-1 py-2">
+    <div class="col-12">
       <a href="{{ .URL | absURL }}/shop-all" target="_blank" class="btn btn-primary btn-sm-rounded">
         <span class="btn-area">
             Shop All
