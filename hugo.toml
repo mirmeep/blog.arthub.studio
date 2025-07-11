@@ -122,7 +122,7 @@ summarylength = 10
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "Brooke Schutz<br>2363 James St PMB 1180<br>Syracuse, NY 13206"
+      address = "Art Hub Studio LLC<br><br>5540 Centerview Dr Ste 204<br>PMB 499441<br>Raleigh, North Carolina 27606-8012 US<br>"
       phone   = "607-325-5500"
       email   = "brooke.schutz@arthub.studio"
     # Footer Sitemap
