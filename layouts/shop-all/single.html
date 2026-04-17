@@ -1,2 +1,12 @@
 {{ define "main" }}
+<section class="site-blog details">
+  <div class="container">
+    <div class="row justify-content-center">  
+        <div class="col-lg-8">
+            <div class="cp-checkout" data-checkout="{{ .Params.embed }}" style="width: 100%;"></div>
+            <script type="text/javascript" src="https://assets.checkoutpage.com/overlay.js" async></script>
+        </div>
+    </div>
+  </div>
+</section>
 {{ end }}

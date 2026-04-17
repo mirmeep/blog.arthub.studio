@@ -25,7 +25,7 @@
     <div class="row">
       {{ range (.Paginator 4).Pages }}
       <div class="col-lg-6 col-md-10 mx-auto">
-        <a href="{{ .Params.link }}" target="_blank">
+        <a href="{{ .Permalink }}" target="_blank">
         <div class="site-project-item">
           <div class="site-project-item-thumb">
             <img src="{{ .Params.image | absURL }}" alt="project-thumb">
