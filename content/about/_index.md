@@ -3,74 +3,33 @@ title: "About Us"
 date: 2018-07-12T18:19:33+06:00
 heading : "Providing<br>Quality Prints<br>& Fair Revenue"
 description_header : "Our mission is to:" 
-description_body: "Maintain an art community that provides ease and support to artists so they may gain fair revenue, while standardizing the quality of Artist's prints to produce the same quality product for collectors with every purchase."
+description_body: "To make art accessible and enjoyed by all; while teaching art's ability to heal the mind through creative experiences."
 ---
-{{% bootstrap-row %}}
-{{% bootstrap-col class="col-sm-5 offset-sm-1 col-md-4 offset-md-2 py-3 py-md-5" %}}
-***ARTISTS:***\
-*Received unfair commissions at other online art galleries? Not here.*
-{{% /bootstrap-col %}}
-{{% bootstrap-col class="col-sm-5 col-md-4 py-3 py-md-5" %}}
-***COLLECTORS:***\
-*Got a mass produced print that's low quality? Not here.*
-{{% /bootstrap-col %}}
-{{% /bootstrap-row %}}
-
 {{% bootstrap-row %}}
 {{% bootstrap-col class="main-text-block col-md-5 mx-auto" %}}
 
 #### What is Art Hub Studio LLC?
 
-Art Hub Studio LLC is a startup company dedicated to solving two major problems with online art sales; fair revenue to artists and standards for high quality prints.
+Art Hub Studio LLC is an art activity vendor and pop-up booth located in Johnston County, NC.
 
-As of now, we are only selling stretched canvas and fine art prints of artwork. As the company grows, we'll incorporate the sale of original art and possibly other printing methods.
+At our booth, you may enjoy an experience where you sit, relax, and paint your worries away. Seats are limited and first come first serve. However, at our booth we have "art to go" available where you may purchase a curated art kit for grab and go.
 {{% /bootstrap-col %}}
 
 {{< bootstrap-col class="main-text-block col-md-5 mx-auto" >}}
 
-#### How do artist commissions work?
+#### Why Art?
 
-Commissions are a flat rate per unit. Art Hub Studio LLC will discuss recommended commissions with the artist based on market research, time, and materials put into the art.\
-\
-Here are the recommended commissions on the following chart.
-{{< embed-pdf url="/pdfs/rec-commissions.pdf" >}}
+Art Hub Studio LLC believes art should be available to everyone. Therefore, we always provide free coloring sheets that you may enjoy at our booth. 
+
+Art is an amazing tool to heal your nervous system. Use our kits as somatic exercises to regulate your emotions and be more mindful to your wellbeing. 
 
 {{< /bootstrap-col >}}
 {{% /bootstrap-row %}}
 
 {{% bootstrap-row %}}
-{{% bootstrap-col class="sub-text-block col-md-6 offset-md-3 text-center" %}}
-***Are you an artist looking to sell?***\
-[Contact us](https://arthub.studio/contact) and get started with Art Hub Studio LLC today.
-{{% /bootstrap-col %}}
-{{% /bootstrap-row %}}
-{{% bootstrap-row %}}
-{{% bootstrap-col class="main-text-block col-md-5 mx-auto" %}}
+{{% bootstrap-col %}}
+<br>
 
-#### What ensures a quality print?
-
-*Care in the craft and attention to detail!*\
-\
-Here, at Art Hub Studio, we focus on quality over quantity.\
-\
-Art Hub Studio LLC has a small local workshop in Upstate New York where quality material is used to handcraft beautifully framed and stretched canvases and fine art prints.\
-\
-All products go through a standardized quality control check to ensure the color profile and materials are visually appealing for the collector.\
-\
-*You can guarantee to get a product that was cared for, start to finish.*
-{{% /bootstrap-col %}}
-
-{{% bootstrap-col class="main-text-block col-md-5 mx-auto" %}}
-
-#### How do you support this growing business?
-
-Support us by visiting our online store here: [Art Hub Studio Store](https://shop.arthub.studio).\
-\
-Follow our social media.\
-[Instagram](https://www.instagram.com/art_hub_studio_llc/)\
-[Facebook](https://www.facebook.com/ArtHubStudioLLC/)\
-[LinkedIn](https://www.linkedin.com/company/art-hub-studio-llc/)\
-\
-We are currently seeking funding opportunities to help launch this start up company. If you would like to help Art Hub Studio LLC grow you may donate here: [Ko-fi](https://ko-fi.com/arthubstudiollc).
+### Art is entirely you and therefore can never have mistakes, just opportunities to learn, grow, and experience what it means to be human.
 {{% /bootstrap-col %}}
 {{% /bootstrap-row %}}
