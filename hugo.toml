@@ -147,9 +147,6 @@ summarylength = 10
           name = "Instagram"
           url  = "https://www.instagram.com/art_hub_studio_llc/"
         [[params.footer.social.link]]
-          name = "Kofi"
-          url  = "https://ko-fi.com/arthubstudiollc"
-        [[params.footer.social.link]]
           name = "LinkedIn"
           url  = "https://www.linkedin.com/company/art-hub-studio-llc/"
         [[params.footer.social.link]]
