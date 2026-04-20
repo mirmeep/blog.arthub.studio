@@ -8,7 +8,7 @@ author: "Miranda Peak & Brooke Schutz"
 artist: "[Artist name]"
 website: "[Artist website]"
 titleWebsite: "[Website name]"
-draft: false
+draft: true
 ---
 {{% bootstrap-col class="content-justify"%}}
 

@@ -3,7 +3,7 @@ title: "About Us"
 date: 2018-07-12T18:19:33+06:00
 heading : "Heal the mind through creative experiences"
 description_header : "Our mission is to:" 
-description_body: "Share art's ability to regulate the nervous system, while making creative experiences easily accessible to be enjoyed by all."
+description_body: "Share art's ability to heal, while making creative experiences accessible for and enjoyed by all."
 ---
 {{% bootstrap-row %}}
 {{% bootstrap-col class="col-md-5 my-auto mx-auto" %}}
