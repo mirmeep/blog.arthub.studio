@@ -41,8 +41,8 @@ summarylength = 10
 
 # Site Params
 [params]
-  logo = "images/logo.webp"
-  logo_footer = "images/logo-footer.webp"
+  logo = "images/logo.svg"
+  logo_footer = "images/logo-footer.svg"
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.webp"
   custom_stylesheets = ["css/carousel.css"]   # [ "scss/my_1.scss", "scss/my_2.scss" ]
