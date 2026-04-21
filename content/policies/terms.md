@@ -194,14 +194,14 @@ All users of any capacity agree to the choice of forum to be any courts residing
 Art Hub Studio LLC reserves the right, in its sole discretion, to change the Terms under which https://arthub.studio is offered. The most current version of the Terms will supersede all previous versions. Art Hub Studio LLC encourages you to periodically review the Terms to stay informed of our updates. Within its best capability, Art Hub Studio LLC will make public notifications on the Site informing users of updates to these Terms. 
 
 ### Contact Us
-Art Hub Studio LLC welcomes your questions or comments regarding the Terms:\
-\
-Art Hub Studio LLC\
-P.O. box 323, Cobleskill, NY 12043\
-\
-1-(607) 325-5500 \
-\
-Brooke.Schutz@arthub.studio
-
+Art Hub Studio LLC welcomes your questions or comments regarding the Terms: <br>
+<br>5540 Centerview Dr Ste 204 
+<br>PMB 499441 
+<br>Raleigh, North Carolina 27606-8012 US<br>
+<br>
+1 (607)-325-5500 <br>
+<br>
+brooke.schutz@arthub.studio<br>
+<br>
 REV June 25th, 2024
 

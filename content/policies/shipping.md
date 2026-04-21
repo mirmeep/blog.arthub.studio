@@ -1,6 +1,7 @@
 ---
 title: 'Shipping Policy'
 date: 2024-01-04T12:08:26-08:00
+draft: true
 ---
 
 ### This is a placeholder for the Shipping policy
