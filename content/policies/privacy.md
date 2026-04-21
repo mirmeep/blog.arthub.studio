@@ -57,6 +57,10 @@ We may store your data on servers provided by third party hosting vendors with w
 Art Hub Studio LLC reserves the right to change this privacy policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our Site, and/or by updating any privacy information on this page. Your continued use of the Site and/or services available through this Site after such modifications will constitute your: acknowledgement of the modified privacy policy; and agreement to abide and be bound by that policy.
 
 ### Contact Information
-Art Hub Studio LLC welcomes your questions or comments regarding this statement of privacy. If you believe that Art Hub Studio LLC has not adhered to this statement, please contact Art Hub Studio LLC at: PO Box 323, Cobleskill NY 12043 – brooke.schutz@arthub.studio
+Art Hub Studio LLC welcomes your questions or comments regarding this statement of privacy. If you believe that Art Hub Studio LLC has not adhered to this statement, please contact Art Hub Studio LLC at: <br>
+<br>5540 Centerview Dr Ste 204 
+<br>PMB 499441 
+<br>Raleigh, North Carolina 27606-8012 US<br>
+<br>brooke.schutz@arthub.studio
  
 *Effective Date: June 14th, 2024*
