@@ -6,17 +6,17 @@
         <div class="site-footer-widget">
           <h4 class="site-footer-widget-title">{{ .title }}</h4>
           <p class="site-footer-widget-description">
-	    {{ if .address }}
+	          {{ if .address }}
               {{ .address | safeHTML }}  
-        <br>
-	    {{ end }}
-	    {{ if .phone }}
+              <br>
+	          {{ end }}
+	          {{ if .phone }}
               <a href="tel:{{ .phone }}">{{ .phone }}</a>
               <br>
-	    {{ end }}
-	    {{ if .email }}
+	          {{ end }}
+	          {{ if .email }}
               <a href="mailto: {{ .email }}">{{ .email }}</a>
-	    {{ end }}
+	          {{ end }}
           </p>
         </div>
       </div>
@@ -64,25 +64,25 @@
       </div>
     </div>
     {{ if .Site.Params.footer.qr_print }}
-    <div class="row d-none d-print-block">
-      <div class="col col-lg-2">
-        {{ $qrcode := resources.Get "js/qrcode.js" | minify }}
-        <script src="{{ $qrcode.Permalink }}"></script>
+      <div class="row d-none d-print-block">
+        <div class="col col-lg-2">
+          {{ $qrcode := resources.Get "js/qrcode.js" | minify }}
+          <script src="{{ $qrcode.Permalink }}"></script>
 
-        <div id="qrcode">
-          <script type="text/javascript">
-           new QRCode(document.getElementById("qrcode"), {
-             text: "{{ .Page.RelPermalink | absURL }}",
-             width: 128,
-             height: 128,
-           });
-          </script>
+          <div id="qrcode">
+            <script type="text/javascript">
+            new QRCode(document.getElementById("qrcode"), {
+              text: "{{ .Page.RelPermalink | absURL }}",
+              width: 128,
+              height: 128,
+            });
+            </script>
+          </div>
+        </div>
+        <div class="col col-md-auto">
+          {{ .Page.RelPermalink | absURL }}
         </div>
       </div>
-      <div class="col col-md-auto">
-        {{ .Page.RelPermalink | absURL }}
-      </div>
-    </div>
     {{ end }}
   </div>
 </footer>
