@@ -41,7 +41,7 @@ summarylength = 10
 
 # Site Params
 [params]
-  logo = "images/logo_green.webp"
+  logo = "images/logo-green.webp"
   logo_footer = "images/logo-footer.webp"
   favicon_icon = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.webp"
