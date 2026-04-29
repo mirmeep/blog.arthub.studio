@@ -46,7 +46,7 @@ We also re-sell art supplies such as:
 
 {{< bootstrap-col class="main-text col-md-7 my-auto mx-auto" >}}
 
-At our booth, you may sit, relax, and paint your worries away. ***Booth seats are limited and therefore we honor first come first serve.*** However, at our booth we offer “art to go” where you may purchase a curated art kit for grab and go.
+At our booth, you may sit, relax, and paint your worries away. ***Seats are limited and therefore we honor first come first serve.*** However, at our booth we offer “art to go” where you may purchase curated art kits for grab and go.
 
 {{< /bootstrap-col >}}
 {{% /bootstrap-row %}}
