@@ -1,5 +1,7 @@
 .site-hero{
-  padding-top: 5em;
+  padding-top: 12em;
+  padding-left: 2em;
+  padding-right: 2em;
   &-img {
     max-width: 100%;
     max-height: auto;
@@ -9,5 +11,21 @@
     position: absolute;
     left: 50%; bottom: 70px;
     transform: translateX(-50%);
+  }
+  .hero-text {
+    text-align: center;
+    padding: 1.5em;
+    @include desktop-lg{
+      font-size: 2em;
+    }
+    @include desktop {
+
+    }
+    @include tablet {
+      font-size: 1.5em;
+    }
+    @include mobile {
+
+    }
   }
 }

@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-{{ partial "carousel.html" (dict "context" . "items" "1" "height" "80" "unit" "%" "duration" "7000") . }}
+<!-- {{ partial "carousel.html" (dict "context" . "items" "1" "height" "80" "unit" "%" "duration" "7000") . }} -->
+
+{{ partial "hero.html" . }}
 
 {{ partial "call-to-action.html" . }}
 

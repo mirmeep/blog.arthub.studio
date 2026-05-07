@@ -81,8 +81,10 @@ summarylength = 10
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/tony-new-art.webp"
-    heading               = "NEW! Artwork by Tony Murchison"
+    background_image      = "images/backgrounds/current/jazz.png"
+    url                   = "https://www.artmospherecac.com/jazzartevent"
+    heading               = "Come paint with us at"
+    subtext               = "We hope to see you there!"
     tagline               = ""
     primary_button        = "See Our Artists"
     primary_button_url    = "portfolio"

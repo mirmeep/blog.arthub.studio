@@ -2,7 +2,9 @@
   {{ if .enable }}
   {{ "<!-- Site Hero Start -->" | safeHTML }}
         <div class="site-hero">
-          <img class="site-hero-img" src="{{ .background_image }}">
+          <h1 class="hero-text">{{ .heading }}</h1>
+          <a href="{{ .url }}" target="_blank"><img class="site-hero-img" src="{{ .background_image }}"></a>
+          <h1 class="hero-text">{{ .subtext }}</h1>
         </div>
   {{ "<!-- Site Hero End -->" | safeHTML }}
   {{ end }}
