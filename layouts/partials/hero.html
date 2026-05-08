@@ -2,9 +2,18 @@
   {{ if .enable }}
   {{ "<!-- Site Hero Start -->" | safeHTML }}
         <div class="site-hero">
-          <h1 class="hero-text">{{ .heading }}</h1>
-          <a href="{{ .url }}" target="_blank"><img class="site-hero-img" src="{{ .background_image }}"></a>
-          <h1 class="hero-text">{{ .subtext }}</h1>
+          <div class="hero-text">
+            <h1 class="hero-text">{{ .heading }}</h1>
+          </div>
+          <div class="site-hero-img-container">
+            <a href="{{ .url }}" target="_blank"><img class="site-hero-img-container-img" src="{{ .background_image }}"></a>
+          </div>
+          <div class="hero-text">
+            <h3 class="hero-text">Saturday May 16th, 2026</h3>
+            <h3 class="hero-text">5:00-9:00PM</h3>
+            <h3 class="hero-text">Artmosphere Community Arts Center LLC<br>3919 Raleigh Rd, Clayton, NC 27520</h3>
+            <h1 class="hero-text">{{ .subtext }}</h1>
+          </div>
         </div>
   {{ "<!-- Site Hero End -->" | safeHTML }}
   {{ end }}
