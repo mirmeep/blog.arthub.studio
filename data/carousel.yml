@@ -1,5 +1,6 @@
 images:
-  - image: /images/backgrounds/current/jazz.png
-    content_html: ""
-    link: "https://www.artmospherecac.com/jazzartevent"
+  - image: /images/product-images/current/valentines-coloring-poster.webp
+    alt_text: "{alt text here}"
+  - image: /images/product-images/current/st-patricks-coloring-poster.webp
+    alt_text: "{alt text here}"
   
