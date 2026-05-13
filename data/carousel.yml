@@ -1,20 +1,29 @@
 images:
   - image: /images/product-images/current/valentines-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/st-patricks-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/easter-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/mothers-day-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/instruments-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/halloween-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/thanksgiving-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/christmas-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   - image: /images/product-images/current/new-years-coloring-poster.webp
     alt_text: "{alt text here}"
+    link: "#product-items"
   

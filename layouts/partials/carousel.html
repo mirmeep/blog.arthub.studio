@@ -9,7 +9,7 @@
             <li aria-label="featured_image{{ add $index 1}}" id="c10_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $.context.Scratch.Get "items" }}); padding-bottom: {{ $.context.Scratch.Get "height" }}{{ $.context.Scratch.Get "unit" }};">
               <img src="{{ $slide.image }}" alt="{{ $slide.alt_text }}"/>
               {{ if $slide.link }}
-                <a href="{{ $slide.link }}" target="_blank"></a>
+                <a href="{{ $slide.link }}"></a>
               {{ end }}
             </li>
         {{ end }}
