@@ -81,7 +81,7 @@ summarylength = 10
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/current/jazz.png"
+    background_image      = "images/backgrounds/current/jazz.webp"
     url                   = "https://www.artmospherecac.com/jazzartevent"
     heading               = "Come paint with us at Jazz & Art!"
     subtext               = "We hope to see you there!"
