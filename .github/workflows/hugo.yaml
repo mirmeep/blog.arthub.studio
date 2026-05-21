@@ -35,7 +35,8 @@ jobs:
       HUGO_VERSION: 0.121.1
     steps:
       - name: Inject Secret Key
-        env: PUBLIC_TEST_API_KEY: ${{secrets.PUBLIC_TEST_API_KEY }}
+        env: 
+          PUBLIC_TEST_API_KEY: ${{secrets.PUBLIC_TEST_API_KEY }}
         run: |
           echo "[services]" >> hugo.toml
           echo "[services.exampleService]" >> hugo.toml
