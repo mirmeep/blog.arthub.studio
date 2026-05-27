@@ -33,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.121.1
+      DART_SASS_VERSION: ${{ }}
     steps:
       - name: Install Hugo CLI
         run: |
@@ -46,7 +47,17 @@ jobs:
           echo "[services.exampleService]" >> hugo.toml
           echo "secretKey = '${PUBLIC_TEST_API_KEY}'" >> hugo.toml        
       - name: Install Dart Sass
-        uses: dw-labs-org/dart-sass-gha@v1
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: "sass/dart-sass"
+          latest: true
+          filename: "dart-sass-*-linux-x64.tar.gz "
+          tarBall: false
+          zipBall: false
+          extract: true
+      - name: Add Dart-Sass to Path
+        run: echo "$(pwd)/dart-sass" >> $GITHUB_PATH
+        shell: bash    
       - name: Checkout
         uses: actions/checkout@v4
         with:
