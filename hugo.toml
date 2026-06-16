@@ -41,7 +41,6 @@ summarylength = 10
 
 # Site Params
 [params]
-  api_test_key = '{{ getenv "PUBLIC_TEST_API_KEY" }}'
   logo = "images/logo-green.webp"
   logo_footer = "images/logo-footer.webp"
   favicon_icon = "images/favicon.ico"

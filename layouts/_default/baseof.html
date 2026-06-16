@@ -10,7 +10,7 @@
     </body>
     <script>
         window.SnipcartSettings = {
-            publicApiKey: "{{ .Site.params.api_test_key }}",
+            publicApiKey: '{{ getenv "PUBLIC_TEST_API_KEY" }}',
             loadStrategy: "on-user-interaction",
         };
 
