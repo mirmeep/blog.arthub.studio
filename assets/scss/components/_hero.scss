@@ -1,20 +1,13 @@
 .site-hero{
-  padding-top: 12em;
   padding-left: 2em;
   padding-right: 2em;
   &-img-container{
-      display:block;
-      margin-left: auto;
-      margin-right: auto;
-      object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
     &-img {
-      max-width: 100%;
-    }
-  }
-  &-scroll{
-    position: absolute;
-    left: 50%; bottom: 70px;
-    transform: translateX(-50%);
+      width: 100%;
+    } 
   }
   .hero-text {
     text-align: center;

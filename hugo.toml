@@ -81,10 +81,10 @@ summarylength = 10
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/current/jazz.webp"
-    url                   = "https://www.artmospherecac.com/jazzartevent"
-    heading               = "Come paint with us at Jazz & Art!"
-    subtext               = "We hope to see you there!"
+    background_image      = "images/backgrounds/current/cozycat.gif"
+    url                   = "https://arthub.studio/shop-all/"
+    heading               = ""
+    subtext               = ""
     tagline               = ""
     primary_button        = "See Our Artists"
     primary_button_url    = "portfolio"
