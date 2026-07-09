@@ -81,7 +81,7 @@ summarylength = 10
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/current/cozycat.gif"
+    background_image      = "images/backgrounds/current/general-ad.gif"
     url                   = "https://arthub.studio/shop-all/"
     heading               = ""
     subtext               = ""
