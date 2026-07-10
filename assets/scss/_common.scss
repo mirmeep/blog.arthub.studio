@@ -253,4 +253,7 @@ div.active {
   @include desktop-lg {
     width: 100%;
   }
+  ol {
+    padding-inline-start: 0px;
+  }
 }
