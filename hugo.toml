@@ -50,8 +50,6 @@ summarylength = 10
   # Meta data
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
   author = "StaticMania"
-  # Google Analitycs
-  googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
   fabform  = "https://fabform.io/f/14x8ylu"
 
@@ -167,6 +165,11 @@ summarylength = 10
         description = "Connecting Artists to Collectors<br>Allowing artists to sell art for free<br>Producing high quality prints"
       [params.footer.back_to_top]
         description = "I want to <br> visit again"
+
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-FY74NCSZ7D'
 
 [security]
   enableInlineShortcodes = true
