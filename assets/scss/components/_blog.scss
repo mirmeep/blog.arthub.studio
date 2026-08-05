@@ -36,6 +36,8 @@
       @extend .site-project-item;
       &-thumb{
         @extend .site-project-item-thumb;
+        background: #f7f9ff;
+        min-height: 50em;
       }
       &-content{
         @extend .site-project-item-content;
