@@ -103,9 +103,9 @@ summarylength = 10
   [params.call_to_action]
     enable               = true
     background_image     = "images/backgrounds/cta-background.jpg"
-    title                = "Want to sell your art?"
-    primary_button       = "Submit Query"
-    primary_button_url   = "contact"
+    title                = "Custom Graphic Design Services"
+    primary_button       = "Request Quote"
+    primary_button_url   = "https://art-hub-studio-llc.checkoutpage.com/contact-form"
     secondary_button     = "Learn more"
     secondary_button_url = "about"
 
