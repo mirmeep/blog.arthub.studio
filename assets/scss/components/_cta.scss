@@ -6,7 +6,7 @@
     padding: 100px 0;
   }
   &-title{
-    font-size: 70px;
+    font-size: 3em;
     font-weight: 700;
     letter-spacing: 10px;
     margin-bottom: 60px;
@@ -14,11 +14,11 @@
       letter-spacing: 5px;
     }
     @include desktop-lg{
-      font-size: 50px;
+      font-size: 3em;
       margin-bottom: 40px;
     }
     @include mobile{
-      font-size: 40px;
+      font-size: 2em;
       letter-spacing: 1;
     }
   }
