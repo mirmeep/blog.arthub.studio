@@ -13,16 +13,6 @@ summarylength = 10
     url     = ""
     weight  = 1
   [[menu.nav]]
-    identifier = "about"
-    name    = "About"
-    url     = "about"
-    weight  = 2
-  [[menu.nav]]
-    identifier = "blog"
-    name    = "Blog"
-    url     = "blog"
-    weight  = 4
-  [[menu.nav]]
     identifier = "contact"
     name    = "Contact"
     url     = "https://art-hub-studio-llc.checkoutpage.co/contact-form"
@@ -118,32 +108,46 @@ summarylength = 10
     [params.footer.contactInfo]
       title   = "Contact Info"
       address = "Art Hub Studio LLC<br><br>5540 Centerview Dr Ste 204<br>PMB 499441<br>Raleigh, North Carolina 27606-8012 US<br>"
-      phone   = "607-325-5500"
+      phone   = "(607) 325-5500  Ext. 1001"
       email   = "brooke.schutz@arthub.studio"
     # Footer Sitemap
     [params.footer.sitemap]
       title   = "Sitemap"
       [[params.footer.sitemap.link]]
-        name = "About Company"
-        url  = "about"
+        name = "Home"
+        url  = ""
+      [[params.footer.sitemap.link]]
+        name = "Contact"
+        url  = "https://art-hub-studio-llc.checkoutpage.com/contact-form"
+      [[params.footer.sitemap.link]]
+        name = "Orders"
+        url  = "https://art-hub-studio-llc.checkoutpage.com/portal"
+      [[params.footer.sitemap.link]]
+        name = "Shop"
+        url  = "shop-all"
       [[params.footer.sitemap.link]]
         name = "Blog"
         url  = "blog"
       [[params.footer.sitemap.link]]
-        name = "Contact"
-        url  = "contact"
+        name = "Artists"
+        url  = "portfolio"
+      [[params.footer.sitemap.link]]
+        name = "About"
+        url  = "about"
+
+
       # Footer Social Media
-      [params.footer.social]
-        title   = "Social Media"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "https://www.instagram.com/art_hub_studio_llc/"
-        [[params.footer.social.link]]
-          name = "LinkedIn"
-          url  = "https://www.linkedin.com/company/art-hub-studio-llc/"
-        [[params.footer.social.link]]
-          name = "Facebook"
-          url  = "https://www.facebook.com/ArtHubStudioLLC/"
+    [params.footer.social]
+      title   = "Social Media"
+      [[params.footer.social.link]]
+        name = "Instagram"
+        url  = "https://www.instagram.com/art_hub_studio_llc/"
+      [[params.footer.social.link]]
+        name = "LinkedIn"
+        url  = "https://www.linkedin.com/company/art-hub-studio-llc/"
+      [[params.footer.social.link]]
+        name = "Facebook"
+        url  = "https://www.facebook.com/ArtHubStudioLLC/"
       # Footer Other Information
       [params.footer.info]
         title = "Information"
