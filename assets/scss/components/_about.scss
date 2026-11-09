@@ -99,15 +99,118 @@ img {
   padding-top: 5em;
 }
 
+.about-section-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1em;
+}
 
-@media (max-width: 767px) {
+.about-section-buttons .btn-primary {
+  background-color: #1E566D;
+}
+
+.about-section-buttons .btn-secondary {
+  border: none;
+}
+
+/** For mobile */
+@media (max-width: 1023px) {
   .desktop {
     display: none;
   }
+
+  #about-information {
+    padding: 20em 2em;
+  }
+
+  .about-section-wrapper{
+    text-align: center;
+    align-items:center;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+  }
+
+  .about-section-text {
+    padding: 2em;
+  }
+
+  .about-section-buttons {
+    grid-template-areas:
+      "btn-primary"
+      "btn-secondary";
+    grid-template-columns: 1fr;
+    row-gap: 1em;
+  }
+
+  .about-section-wrapper.left-image,
+  .about-section-wrapper.right-image{
+    background: linear-gradient(#D9DFE9, #ffffff);
+  }
+
+  .btn-primary {
+    grid-area: btn-primary;
+  }
+
+  .btn-secondary {
+    grid-area: btn-secondary;
+  }
 }
 
-@media (min-width: 768px) {
+/** For desktop */
+@media (min-width: 1024px) {
   .mobile {
     display: none;
+  }
+
+  #about-information {
+    padding: 10em;
+    display: grid;
+    align-items:center;
+    grid-template-areas:
+      "design-service"
+      "paint-color-create"
+      "buy-and-sell";
+  }
+
+  .about-section-wrapper {
+    align-items:center;
+    margin-bottom: 3em;
+  }
+
+  .about-section-text {
+    grid-area: about-text;
+  }
+
+  .left-image {
+    display: grid;
+    grid-template-areas:
+      "about-img about-text";
+    grid-template-columns: 1.5fr 1fr;
+  }
+
+  .right-image {
+    display: grid;
+    grid-template-areas:
+      "about-text about-img";
+    grid-template-columns: 1fr 1.5fr;
+  }
+  
+  .desktop {
+    grid-area: about-img;
+  }
+
+  .about-section-wrapper.left-image {
+    background: linear-gradient(to right, #D9DFE9, #ffffff);
+  }
+
+  .about-section-wrapper.right-image {
+    background: linear-gradient(to left, #D9DFE9, #ffffff);
+  } 
+}
+
+/** TODO: For larger desktop */
+@media (min-width: 1920px) {
+  #about-information img {
+    height: 50%; //doesn't work rn
   }
 }
