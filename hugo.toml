@@ -15,7 +15,7 @@ summarylength = 10
   [[menu.nav]]
     identifier = "contact"
     name    = "Contact"
-    url     = "https://art-hub-studio-llc.checkoutpage.co/contact-form"
+    url     = "contact"
     weight  = 5
   [[menu.nav]]
     identifier = "orders"
