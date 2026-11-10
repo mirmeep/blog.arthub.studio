@@ -91,3 +91,17 @@
 .content-justify {
   text-align:justify;
 }
+
+/** For mobile */
+@media (max-width: 1023px) {
+  #blog-list {
+    padding-top: 10em;
+  }
+}
+
+/** For desktop */
+@media (min-width: 1024px) {
+  .site-blog-header {
+    padding-top: 20em;
+  }
+}
