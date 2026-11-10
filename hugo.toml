@@ -131,9 +131,9 @@ summarylength = 10
       [[params.footer.sitemap.link]]
         name = "Artists"
         url  = "portfolio"
-      [[params.footer.sitemap.link]]
-        name = "About"
-        url  = "about"
+      # [[params.footer.sitemap.link]]
+      #   name = "About"
+      #   url  = "about"
 
 
       # Footer Social Media
