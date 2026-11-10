@@ -113,6 +113,14 @@ img {
   border: none;
 }
 
+#about-information {
+  font-family: 'Franklin Gothic', sans-serif;
+}
+
+#about-information p {
+  color: #1E566D;
+}
+
 /** For mobile */
 @media (max-width: 1023px) {
   .desktop {
@@ -163,7 +171,8 @@ img {
   }
 
   #about-information {
-    padding: 10em;
+    padding: 8em;
+    padding-top: 15em;
     display: grid;
     align-items:center;
     grid-template-areas:
@@ -180,6 +189,15 @@ img {
   .about-section-text {
     grid-area: about-text;
   }
+
+  .left-image .about-section-text {
+    padding-right: 2em;
+  }
+
+  .right-image .about-section-text {
+    padding-left: 2em;
+  }
+
 
   .left-image {
     display: grid;
@@ -206,11 +224,4 @@ img {
   .about-section-wrapper.right-image {
     background: linear-gradient(to left, #D9DFE9, #ffffff);
   } 
-}
-
-/** TODO: For larger desktop */
-@media (min-width: 1920px) {
-  #about-information img {
-    height: 50%; //doesn't work rn
-  }
 }
