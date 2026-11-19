@@ -89,7 +89,16 @@
       </ul>
     </div>
   </div>
+  
 </nav>
-
+{{ if .Site.Params.coupon.coupon_show }}
+<div id="coupon" class="">
+  <div class="row">
+    <div class="col-12">
+      {{- partial "coupon.html" . -}}
+    </div>
+  </div>
+{{ end }}
+</div>
 
 

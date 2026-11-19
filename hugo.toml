@@ -43,6 +43,10 @@ summarylength = 10
   # We're using formspree.io for form handling, paste your formspree url below
   fabform  = "https://fabform.io/f/14x8ylu"
 
+  [params.coupon]
+    coupon_show = false
+    coupon_text = "10% OFF Thanksgiving Posters, use code ###### during checkout"
+
   # Contact Form
   [params.contactForm]
     placeholder_first_name        = "First Name"
