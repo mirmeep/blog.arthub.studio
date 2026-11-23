@@ -22,7 +22,7 @@
         var days = (hours / 24) | 0;
         hours -= days * 24;
 
-        countdownString = days + ":" + hours + ":" + minutes + ":" + seconds
+        countdownString = days + "D " + hours + "H " + minutes + "M " + seconds + "S"
 
         document.getElementById("countdown").textContent = countdownString
         // console.log(days + ":" + hours + ":" + minutes + ":" + seconds)
