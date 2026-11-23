@@ -1,7 +1,17 @@
-#coupon {
+.coupon {
     background-color: #ECF4CF;
     text-align: center;
     padding: 1em;
     color: #1E566D;
 }
 
+#coupon_code {
+    cursor: pointer;
+}
+
+#copied {
+    text-align:center;
+    visibility: none;
+    opacity: 0;
+    transition: .2s ease-in opacity;
+}

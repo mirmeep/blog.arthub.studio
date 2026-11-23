@@ -1,3 +1,23 @@
 <div class="coupon-wrapper">
-    <div class="coupon">{{ .Site.Params.coupon.coupon_text }}</div>
+    <div class="coupon">{{ .Site.Params.coupon.coupon_text }}, use code <span id="coupon_code">{{ .Site.Params.coupon.coupon_code }}</span> during checkout</div>
 </div>
+<div role="tooltip" id="copied">copied!</div>
+
+<script>
+    code = document.getElementById("coupon_code")
+    copied = document.getElementById("copied")
+
+    code.onclick = function() {
+        document.execCommand("copy");
+        copied.style.visibility = "visible"
+        window.setTimeout(function(){
+            copied.style.opacity = 1;
+        },0);
+    }
+    code.addEventListener("copy", function(e) {
+        e.preventDefault();
+        if (e.clipboardData) {
+            e.clipboardData.setData("text/plain", code.textContent);
+        }
+    });
+</script>
