@@ -5,6 +5,7 @@
     console.log(expiration.toString())
     
     setInterval(() => {
+        // TODO: Figure out a way to reuse the same object... what a waste of space, I hate JS
         const currentDate = new Date()
         console.log(currentDate.toString())
 
@@ -25,14 +26,5 @@
         countdownString = days + "D " + hours + "H " + minutes + "M " + seconds + "S"
 
         document.getElementById("countdown").textContent = countdownString
-        // console.log(days + ":" + hours + ":" + minutes + ":" + seconds)
-        // console.log(seconds)
-        // console.log(minutes)
-        // console.log(hours)
-        // console.log(days)
     }, 1000)
-    
-
-    //Create a string out of these variables and set it to #countdown
-
 </script>
