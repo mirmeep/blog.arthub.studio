@@ -1,0 +1,38 @@
+<div>Ends in <span id="countdown"></span></div>
+
+<script>
+    const expiration = new Date(`{{ .Site.Params.coupon.coupon_exp }}`);
+    console.log(expiration.toString())
+    
+    setInterval(() => {
+        const currentDate = new Date()
+        console.log(currentDate.toString())
+
+        var mil = Math.abs(expiration - currentDate);
+
+        var seconds = (mil / 1000) | 0;
+        mil -= seconds * 1000;
+
+        var minutes = (seconds / 60) | 0;
+        seconds -= minutes * 60;
+
+        var hours = (minutes / 60) | 0;
+        minutes -= hours * 60;
+
+        var days = (hours / 24) | 0;
+        hours -= days * 24;
+
+        countdownString = days + ":" + hours + ":" + minutes + ":" + seconds
+
+        document.getElementById("countdown").textContent = countdownString
+        // console.log(days + ":" + hours + ":" + minutes + ":" + seconds)
+        // console.log(seconds)
+        // console.log(minutes)
+        // console.log(hours)
+        // console.log(days)
+    }, 1000)
+    
+
+    //Create a string out of these variables and set it to #countdown
+
+</script>

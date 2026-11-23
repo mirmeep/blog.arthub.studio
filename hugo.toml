@@ -47,6 +47,7 @@ summarylength = 10
     coupon_show = false
     coupon_text = "10% OFF Thanksgiving Posters"
     coupon_code = "69420"
+    coupon_exp  = "November 28, 2026 12:00:00"
 
   # Contact Form
   [params.contactForm]

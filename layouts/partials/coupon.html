@@ -1,7 +1,9 @@
-<div class="coupon-wrapper">
-    <div class="coupon">{{ .Site.Params.coupon.coupon_text }}, use code <span id="coupon_code">{{ .Site.Params.coupon.coupon_code }}</span> during checkout</div>
-</div>
+
 <div role="tooltip" id="copied">copied!</div>
+<div class="coupon-wrapper">
+    <div class="coupon">{{ .Site.Params.coupon.coupon_text }}, use code <span id="coupon_code">{{ .Site.Params.coupon.coupon_code }}</span> during checkout. {{- partial "countdown.html" . -}}</div>
+</div>
+
 
 <script>
     code = document.getElementById("coupon_code")
