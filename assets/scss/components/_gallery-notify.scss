@@ -1,0 +1,35 @@
+.gallery-notify-wrapper {
+    background-color:#ECF4CF;
+    text-align:center;
+
+}
+
+.gallery-notify-wrapper > h1 {
+    font-weight: 400;
+}
+
+.cp-checkout {
+    margin:auto;
+}
+
+/** For desktop */
+@media (min-width: 1280px) {
+    .gallery-notify-wrapper {
+        padding: 5em 10em;
+    }
+
+    .gallery-notify-wrapper > .cp-checkout { 
+        width: 50%;
+    }
+}
+
+/** For mobile */
+@media (max-width: 1279px) { 
+    .gallery-notify-wrapper {
+        padding: 1em;
+    }
+    
+    .gallery-notify-wrapper > .cp_checkout {
+        width: 100%;
+    }
+}

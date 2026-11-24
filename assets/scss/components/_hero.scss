@@ -9,9 +9,11 @@
     &-img {
       width: 100%;
     } 
-    // padding-top: 10em;
   }
   .hero-text {
+    .site-cta-buttons {
+      padding-bottom: 5em;
+    }
     text-align: center;
     h1{
       padding: 1.5em;
