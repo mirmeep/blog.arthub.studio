@@ -45,7 +45,8 @@ summarylength = 10
 
   [params.coupon]
     coupon_show = false
-    coupon_text = "10% OFF Thanksgiving Posters"
+    coupon_percent = "10% OFF"
+    coupon_product = "Thanksgiving Posters"
     coupon_code = "69420"
     coupon_exp  = "November 28, 2026 12:00:00"
 

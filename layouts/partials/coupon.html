@@ -1,7 +1,7 @@
 
 <div role="tooltip" id="copied">copied!</div>
 <div class="coupon-wrapper">
-    <div class="coupon">{{ .Site.Params.coupon.coupon_text }}, use code <span id="coupon_code">{{ .Site.Params.coupon.coupon_code }}</span> during checkout. {{- partial "countdown.html" . -}}</div>
+    <div class="coupon"><span class="panic-red panic-bold">{{ .Site.Params.coupon.coupon_percent }}</span> {{ .Site.Params.coupon.coupon_product }}, <span class="panic-bold">use code</span> <span class="panic-red panic-bold" id="coupon_code">{{ .Site.Params.coupon.coupon_code }}</span> during checkout. {{- partial "countdown.html" . -}}</div>
 </div>
 
 
