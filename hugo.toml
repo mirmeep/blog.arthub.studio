@@ -9,46 +9,43 @@ summarylength = 10
   # Navbar Menus
   [[menu.nav]]
     identifier = "home"
-    name    = "Home"
-    url     = ""
-    weight  = 1
+    name       = "Home"
+    url        = ""
+    weight     = 1
   [[menu.nav]]
     identifier = "contact"
-    name    = "Contact"
-    url     = "contact"
-    weight  = 5
+    name       = "Contact"
+    url        = "contact"
+    weight     = 5
   [[menu.nav]]
     identifier = "orders"
-    name    = "Orders"
-    url     = "https://art-hub-studio-llc.checkoutpage.co/portal"
-    weight = 6
+    name       = "Orders"
+    url        = "https://art-hub-studio-llc.checkoutpage.co/portal"
+    weight     = 6
   [[menu.nav]]
     identifier = "shop-all"
-    name    = "SHOP"
-    url     = "shop-all"
-    weight  = 7
+    name       = "SHOP"
+    url        = "shop-all"
+    weight     = 7
 
 
 # Site Params
 [params]
-  logo = "images/logo.webp"
-  # logo_footer = "images/logo-footer.webp"
-  favicon_icon = "images/favicon.ico"
+  logo                  = "images/logo.webp"
+  favicon_icon          = "images/favicon.ico"
   favicon_shortcut_icon = "images/favicon.webp"
-  custom_stylesheets = ["css/carousel.css"]   # [ "scss/my_1.scss", "scss/my_2.scss" ]
-  dateFormat = "26 FEB 1994"
+  custom_stylesheets    = ["css/carousel.css"]   # [ "scss/my_1.scss", "scss/my_2.scss" ]
+  dateFormat            = "26 FEB 1994"
   # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
-  # We're using formspree.io for form handling, paste your formspree url below
-  fabform  = "https://fabform.io/f/14x8ylu"
+  description           = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  author                = "StaticMania"
 
   [params.coupon]
-    coupon_show = false
+    coupon_show    = false
     coupon_percent = "10% OFF"
     coupon_product = "Thanksgiving Posters"
-    coupon_code = "69420"
-    coupon_exp  = "November 28, 2026 12:00:00"
+    coupon_code    = "69420"
+    coupon_exp     = "November 28, 2026 12:00:00"
 
   # Contact Form
   [params.contactForm]
@@ -60,10 +57,10 @@ summarylength = 10
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
-      value = "gd"
+      value  = "gd"
       title  = "Graphics Design"
     [[params.contactForm.projectType]]
-      value = "wd"
+      value  = "wd"
       title  = "Web Design"
   
   # Navbar Action Button
@@ -164,9 +161,6 @@ summarylength = 10
         [[params.footer.info.link]]
           name = "Privacy Policy"
           url  = "policies/privacy"
-        #[[params.footer.info.link]]
-         # name = "Shipping Policy"
-        #  url  = "shipping"
         [[params.footer.info.link]]
           name = "Cancellation, Return & Refund Policy"
           url  = "policies/refund"
